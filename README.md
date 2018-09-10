@@ -1,4 +1,4 @@
-| [2018](#2018) | [2017](#2017) | 2016 | 2015 | 2014 | 2013 | 2012 | 2011 | 2010 | 2009 | 2008 | 2007 | [Suggestions](https://github.com/zziz/pwc/issues/1) |    
+| [2018](#2018) | [2017](#2017) | 2016 | 2015 | 2014 | 2013 | 2012 | 2011 | 2010 | 2009 | 2008 | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Papers%20with%20code.%20Sorted%20by%20stars.%20Updated%20weekly.%20&url=https://github.com/zziz/pwc&via=fvzaur&hashtags=machinelearning,paper,code,github) | [Suggestions](https://github.com/zziz/pwc/issues/1) |    
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 
 
