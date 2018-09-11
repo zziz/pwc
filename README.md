@@ -901,3 +901,7 @@
 | [Learning Spatial Regularization With Image-Level Supervisions for Multi-Label Image Classification](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhu_Learning_Spatial_Regularization_CVPR_2017_paper.html) | CVPR | [code](https://github.com/Enjia/Spatial-Regularization-Network-in-Tensorflow) | 0 | 
 | [Weighted-Entropy-Based Quantization for Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/html/Park_Weighted-Entropy-Based_Quantization_for_CVPR_2017_paper.html) | CVPR | [code](https://github.com/xiaoweiChen/Weighted-Entropy-based-Quantization-for-Deep-Neural-Networks) | 0 | 
 | [Co-Occurrence Filter](http://openaccess.thecvf.com/content_cvpr_2017/html/Jevnisek_Co-Occurrence_Filter_CVPR_2017_paper.html) | CVPR | [code](https://github.com/kobybibas/CoOccurrenceFilter) | 0 | 
+## 2017
+| Title | Conf | Code | Stars |
+|:--------|:--------:|:--------:|:--------:|
+| [A single hidden layer feedforward network with only one neuron in the hidden layer can approximate any univariate function](https://arxiv.org/abs/1601.00013) |  | [code](https://sites.google.com/site/njguliyev/papers/sigmoidal) | 0 | 
