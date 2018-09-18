@@ -990,6 +990,7 @@ This work is in continuous progress and update. We are adding new PWC everyday! 
 | [Streaming Weak Submodularity: Interpreting Neural Networks on the Fly](http://papers.nips.cc/paper/6993-streaming-weak-submodularity-interpreting-neural-networks-on-the-fly.pdf) | NIPS | [code](https://github.com/eelenberg/streak) | 14 | 
 | [Off-policy evaluation for slate recommendation](http://papers.nips.cc/paper/6954-off-policy-evaluation-for-slate-recommendation.pdf) | NIPS | [code](https://github.com/adith387/slates_semisynth_expts) | 14 | 
 | [Few-Shot Learning Through an Information Retrieval  Lens](http://papers.nips.cc/paper/6820-few-shot-learning-through-an-information-retrieval-lens.pdf) | NIPS | [code](https://github.com/eleniTriantafillou/few_shot_mAP_public) | 14 | 
+| [Attentive Recurrent Comparators](http://proceedings.mlr.press/v70/shyam17a/shyam17a.pdf) | ICML | [code](https://github.com/pranv/ARC) | 49 | 
 | [Label Distribution Learning Forests](http://papers.nips.cc/paper/6685-label-distribution-learning-forests.pdf) | NIPS | [code](https://github.com/shenwei1231/caffe-LDLForests) | 14 | 
 | [Deep Learning with Topological Signatures](http://papers.nips.cc/paper/6761-deep-learning-with-topological-signatures.pdf) | NIPS | [code](https://github.com/c-hofer/nips2017) | 14 | 
 | [Deep Multitask Architecture for Integrated 2D and 3D Human Sensing](http://openaccess.thecvf.com/content_cvpr_2017/html/Popa_Deep_Multitask_Architecture_CVPR_2017_paper.html) | CVPR | [code](https://github.com/alinionutpopa/dmhs) | 14 | 
