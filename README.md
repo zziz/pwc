@@ -2,7 +2,7 @@
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 
 This work is in continuous progress and update. We are adding new PWC everyday! Tweet me [@fvzaur](https://twitter.com/fvzaur)
-
+ 
 ## 2018
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
@@ -602,6 +602,7 @@ This work is in continuous progress and update. We are adding new PWC everyday! 
 | [Functional Map of the World](http://openaccess.thecvf.com/content_cvpr_2018/papers/Christie_Functional_Map_of_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/nichochar/zapmap) | 1 | 
 | [Density Adaptive Point Set Registration](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lawin_Density_Adaptive_Point_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/felja633/DARE) | 1 | 
 | [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.html) | ECCV | [code](https://github.com/facebookresearch/corefnmn) | 1 | 
+ 
 ## 2017
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
@@ -838,7 +839,6 @@ This work is in continuous progress and update. We are adding new PWC everyday! 
 | [Deep Subspace Clustering Networks](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) | NIPS | [code](https://github.com/panji1990/Deep-subspace-clustering-networks) | 52 | 
 | [Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes](http://openaccess.thecvf.com/content_iccv_2017/html/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.html) | ICCV | [code](https://github.com/YangZhang4065/AdaptationSeg) | 50 | 
 | [Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee.pdf) | NIPS | [code](https://github.com/DNNToolBox/Net-Trim-v1) | 50 | 
-| [Attentive Recurrent Comparators](http://proceedings.mlr.press/v70/shyam17a/shyam17a.pdf) | ICML | [code](https://github.com/pranv/ARC) | 49 | 
 | [A Deep Regression Architecture With Two-Stage Re-Initialization for High Performance Facial Landmark Detection](http://openaccess.thecvf.com/content_cvpr_2017/html/Lv_A_Deep_Regression_CVPR_2017_paper.html) | CVPR | [code](https://github.com/shaoxiaohu/Face_Alignment_Two_Stage_Re-initialization) | 49 | 
 | [CoupleNet: Coupling Global Structure With Local Parts for Object Detection](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_CoupleNet_Coupling_Global_ICCV_2017_paper.html) | ICCV | [code](https://github.com/tshizys/CoupleNet) | 49 | 
 | [Person Search With Natural Language Description](http://openaccess.thecvf.com/content_cvpr_2017/html/Li_Person_Search_With_CVPR_2017_paper.html) | CVPR | [code](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description) | 47 | 
@@ -1213,9 +1213,11 @@ This work is in continuous progress and update. We are adding new PWC everyday! 
 | [ScaleNet: Guiding Object Proposal Generation in Supermarkets and Beyond](http://openaccess.thecvf.com/content_iccv_2017/html/Qiao_ScaleNet_Guiding_Object_ICCV_2017_paper.html) | ICCV | [code](https://github.com/joe-siyuan-qiao/ScaleNet) | 1 | 
 | [Geodesic Distance Descriptors](http://openaccess.thecvf.com/content_cvpr_2017/html/Shamai_Geodesic_Distance_Descriptors_CVPR_2017_paper.html) | CVPR | [code](https://github.com/fuyangliu/3D-Model-Descriptor) | 1 | 
 | [SPFTN: A Self-Paced Fine-Tuning Network for Segmenting Objects in Weakly Labelled Videos](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_SPFTN_A_Self-Paced_CVPR_2017_paper.html) | CVPR | [code](https://github.com/LeYangNwpu/SPFTN) | 1 | 
+ 
 ## 2016
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
+| [Image Style Transfer Using Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html) | CVPR | [code](https://github.com/jcjohnson/neural-style) | 16098 | 
 | [Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) | CVPR | [code](https://github.com/KaimingHe/deep-residual-networks) | 4137 | 
 | [Convolutional Pose Machines](http://openaccess.thecvf.com/content_cvpr_2016/html/Wei_Convolutional_Pose_Machines_CVPR_2016_paper.html) | CVPR | [code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) | 2897 | 
 | [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](http://openaccess.thecvf.com/content_cvpr_2016/html/Li_Combining_Markov_Random_CVPR_2016_paper.html) | CVPR | [code](https://github.com/chuanli11/CNNMRF) | 700 | 
@@ -1252,41 +1254,41 @@ This work is in continuous progress and update. We are adding new PWC everyday! 
 | [Progressive Prioritized Multi-View Stereo](http://openaccess.thecvf.com/content_cvpr_2016/html/Locher_Progressive_Prioritized_Multi-View_CVPR_2016_paper.html) | CVPR | [code](https://github.com/alexlocher/hpmvs) | 69 | 
 | [A Hierarchical Deep Temporal Model for Group Activity Recognition](http://openaccess.thecvf.com/content_cvpr_2016/html/Ibrahim_A_Hierarchical_Deep_CVPR_2016_paper.html) | CVPR | [code](https://github.com/mostafa-saad/deep-activity-rec) | 66 | 
 | [Marr Revisited: 2D-3D Alignment via Surface Normal Prediction](http://openaccess.thecvf.com/content_cvpr_2016/html/Bansal_Marr_Revisited_2D-3D_CVPR_2016_paper.html) | CVPR | [code](https://github.com/aayushbansal/MarrRevisited) | 64 | 
-| [Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs](http://openaccess.thecvf.com/content_cvpr_2016/html/Ge_Robust_3D_Hand_CVPR_2016_paper.html) | CVPR | [code](https://github.com/geliuhao/CVPR2016_HandPoseEstimation) | 63 | 
 | [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Real-Time_Single_Image_CVPR_2016_paper.html) | CVPR | [code](https://github.com/leftthomas/ESPCN) | 63 | 
+| [Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs](http://openaccess.thecvf.com/content_cvpr_2016/html/Ge_Robust_3D_Hand_CVPR_2016_paper.html) | CVPR | [code](https://github.com/geliuhao/CVPR2016_HandPoseEstimation) | 63 | 
 | [Towards Open Set Deep Networks](http://openaccess.thecvf.com/content_cvpr_2016/html/Bendale_Towards_Open_Set_CVPR_2016_paper.html) | CVPR | [code](https://github.com/abhijitbendale/OSDN) | 61 | 
 | [Bilateral Space Video Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/html/Maerki_Bilateral_Space_Video_CVPR_2016_paper.html) | CVPR | [code](https://github.com/owang/BilateralVideoSegmentation) | 59 | 
 | [Deep Compositional Captioning: Describing Novel Object Categories Without Paired Training Data](http://openaccess.thecvf.com/content_cvpr_2016/html/Hendricks_Deep_Compositional_Captioning_CVPR_2016_paper.html) | CVPR | [code](https://github.com/LisaAnne/DCC) | 52 | 
-| [Efficient 3D Room Shape Recovery From a Single Panorama](http://openaccess.thecvf.com/content_cvpr_2016/html/Yang_Efficient_3D_Room_CVPR_2016_paper.html) | CVPR | [code](https://github.com/YANG-H/Panoramix) | 48 | 
 | [Video Segmentation via Object Flow](http://openaccess.thecvf.com/content_cvpr_2016/html/Tsai_Video_Segmentation_via_CVPR_2016_paper.html) | CVPR | [code](https://github.com/wasidennis/ObjectFlow) | 48 | 
+| [Efficient 3D Room Shape Recovery From a Single Panorama](http://openaccess.thecvf.com/content_cvpr_2016/html/Yang_Efficient_3D_Room_CVPR_2016_paper.html) | CVPR | [code](https://github.com/YANG-H/Panoramix) | 48 | 
 | [Slicing Convolutional Neural Network for Crowd Video Understanding](http://openaccess.thecvf.com/content_cvpr_2016/html/Shao_Slicing_Convolutional_Neural_CVPR_2016_paper.html) | CVPR | [code](https://github.com/amandajshao/Slicing-CNN) | 40 | 
 | [CRAFT Objects From Images](http://openaccess.thecvf.com/content_cvpr_2016/html/Yang_CRAFT_Objects_From_CVPR_2016_paper.html) | CVPR | [code](https://github.com/byangderek/CRAFT) | 40 | 
 | [Deep Region and Multi-Label Learning for Facial Action Unit Detection](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhao_Deep_Region_and_CVPR_2016_paper.html) | CVPR | [code](https://github.com/zkl20061823/DRML) | 38 | 
-| [Deep Supervised Hashing for Fast Image Retrieval](http://openaccess.thecvf.com/content_cvpr_2016/html/Liu_Deep_Supervised_Hashing_CVPR_2016_paper.html) | CVPR | [code](https://github.com/yg33717/DSH_tensorflow) | 34 | 
 | [Sketch Me That Shoe](http://openaccess.thecvf.com/content_cvpr_2016/html/Yu_Sketch_Me_That_CVPR_2016_paper.html) | CVPR | [code](https://github.com/seuliufeng/DeepSBIR) | 34 | 
+| [Deep Supervised Hashing for Fast Image Retrieval](http://openaccess.thecvf.com/content_cvpr_2016/html/Liu_Deep_Supervised_Hashing_CVPR_2016_paper.html) | CVPR | [code](https://github.com/yg33717/DSH_tensorflow) | 34 | 
 | [A Dual-Source Approach for 3D Pose Estimation From a Single Image](http://openaccess.thecvf.com/content_cvpr_2016/html/Yasin_A_Dual-Source_Approach_CVPR_2016_paper.html) | CVPR | [code](https://github.com/iqbalu/3D_Pose_Estimation_CVPR2016) | 32 | 
 | [Image Captioning With Semantic Attention](http://openaccess.thecvf.com/content_cvpr_2016/html/You_Image_Captioning_With_CVPR_2016_paper.html) | CVPR | [code](https://github.com/chapternewscu/image-captioning-with-semantic-attention) | 31 | 
 | [Deep Saliency With Encoded Low Level Distance Map and High Level Features](http://openaccess.thecvf.com/content_cvpr_2016/html/Lee_Deep_Saliency_With_CVPR_2016_paper.html) | CVPR | [code](https://github.com/gylee1103/SaliencyELD) | 30 | 
-| [A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/html/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.html) | CVPR | [code](https://github.com/davisvideochallenge/davis-matlab) | 29 | 
 | [Non-Local Image Dehazing](http://openaccess.thecvf.com/content_cvpr_2016/html/Berman_Non-Local_Image_Dehazing_CVPR_2016_paper.html) | CVPR | [code](https://github.com/danaberman/non-local-dehazing) | 29 | 
+| [A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/html/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.html) | CVPR | [code](https://github.com/davisvideochallenge/davis-matlab) | 29 | 
 | [Learning Local Image Descriptors With Deep Siamese and Triplet Convolutional Networks by Minimising Global Loss Functions](http://openaccess.thecvf.com/content_cvpr_2016/html/G_Learning_Local_Image_CVPR_2016_paper.html) | CVPR | [code](https://github.com/vijaykbg/deep-patchmatch) | 28 | 
 | [Structured Feature Learning for Pose Estimation](http://openaccess.thecvf.com/content_cvpr_2016/html/Chu_Structured_Feature_Learning_CVPR_2016_paper.html) | CVPR | [code](https://github.com/chuxiaoselena/StructuredFeature) | 27 | 
 | [Unsupervised Learning of Edges](http://openaccess.thecvf.com/content_cvpr_2016/html/Li_Unsupervised_Learning_of_CVPR_2016_paper.html) | CVPR | [code](https://github.com/happyharrycn/unsupervised_edges) | 26 | 
 | [PatchBatch: A Batch Augmented Loss for Optical Flow](http://openaccess.thecvf.com/content_cvpr_2016/html/Gadot_PatchBatch_A_Batch_CVPR_2016_paper.html) | CVPR | [code](https://github.com/DediGadot/PatchBatch) | 26 | 
 | [Actionness Estimation Using Hybrid Fully Convolutional Networks](http://openaccess.thecvf.com/content_cvpr_2016/html/Wang_Actionness_Estimation_Using_CVPR_2016_paper.html) | CVPR | [code](https://github.com/wanglimin/Actionness-Estimation) | 24 | 
-| [Recurrent Attention Models for Depth-Based Person Identification](http://openaccess.thecvf.com/content_cvpr_2016/html/Haque_Recurrent_Attention_Models_CVPR_2016_paper.html) | CVPR | [code](https://github.com/ahaque/ram_person_id) | 24 | 
 | [Ordinal Regression With Multiple Output CNN for Age Estimation](http://openaccess.thecvf.com/content_cvpr_2016/html/Niu_Ordinal_Regression_With_CVPR_2016_paper.html) | CVPR | [code](https://github.com/luoyetx/OrdinalRegression) | 24 | 
+| [Recurrent Attention Models for Depth-Based Person Identification](http://openaccess.thecvf.com/content_cvpr_2016/html/Haque_Recurrent_Attention_Models_CVPR_2016_paper.html) | CVPR | [code](https://github.com/ahaque/ram_person_id) | 24 | 
 | [Fast Training of Triplet-Based Deep Binary Embedding Networks](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhuang_Fast_Training_of_CVPR_2016_paper.html) | CVPR | [code](https://github.com/xwzy/Triplet-deep-hash-pytorch) | 22 | 
-| [Dense Human Body Correspondences Using Convolutional Networks](http://openaccess.thecvf.com/content_cvpr_2016/html/Wei_Dense_Human_Body_CVPR_2016_paper.html) | CVPR | [code](https://github.com/halimacc/DenseHumanBodyCorrespondences) | 21 | 
 | [You Only Look Once: Unified, Real-Time Object Detection](http://openaccess.thecvf.com/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html) | CVPR | [code](https://github.com/andersy005/keras-yolo) | 21 | 
+| [Dense Human Body Correspondences Using Convolutional Networks](http://openaccess.thecvf.com/content_cvpr_2016/html/Wei_Dense_Human_Body_CVPR_2016_paper.html) | CVPR | [code](https://github.com/halimacc/DenseHumanBodyCorrespondences) | 21 | 
 | [Detecting Vanishing Points Using Global Image Context in a Non-Manhattan World](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhai_Detecting_Vanishing_Points_CVPR_2016_paper.html) | CVPR | [code](https://github.com/viibridges/gc-horizon-detector) | 20 | 
 | [First Person Action Recognition Using Deep Learned Descriptors](http://openaccess.thecvf.com/content_cvpr_2016/html/Singh_First_Person_Action_CVPR_2016_paper.html) | CVPR | [code](https://github.com/suriyasingh/EgoConvNet) | 20 | 
-| [Proposal Flow](http://openaccess.thecvf.com/content_cvpr_2016/html/Ham_Proposal_Flow_CVPR_2016_paper.html) | CVPR | [code](https://github.com/bsham/ProposalFlow) | 17 | 
 | [Accumulated Stability Voting: A Robust Descriptor From Descriptors of Multiple Scales](http://openaccess.thecvf.com/content_cvpr_2016/html/Yang_Accumulated_Stability_Voting_CVPR_2016_paper.html) | CVPR | [code](https://github.com/shamangary/ASV) | 17 | 
+| [Proposal Flow](http://openaccess.thecvf.com/content_cvpr_2016/html/Ham_Proposal_Flow_CVPR_2016_paper.html) | CVPR | [code](https://github.com/bsham/ProposalFlow) | 17 | 
 | [Scale-Aware Alignment of Hierarchical Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/html/Chen_Scale-Aware_Alignment_of_CVPR_2016_paper.html) | CVPR | [code](https://github.com/yuhuayc/align-hier) | 16 | 
-| [Bottom-Up and Top-Down Reasoning With Hierarchical Rectified Gaussians](http://openaccess.thecvf.com/content_cvpr_2016/html/Hu_Bottom-Up_and_Top-Down_CVPR_2016_paper.html) | CVPR | [code](https://github.com/peiyunh/rg-mpii) | 15 | 
 | [Structure From Motion With Objects](http://openaccess.thecvf.com/content_cvpr_2016/html/Crocco_Structure_From_Motion_CVPR_2016_paper.html) | CVPR | [code](https://github.com/danylaksono/Android-SfM-client) | 15 | 
 | [Semantic Segmentation With Boundary Neural Fields](http://openaccess.thecvf.com/content_cvpr_2016/html/Bertasius_Semantic_Segmentation_With_CVPR_2016_paper.html) | CVPR | [code](https://github.com/gberta/BNF_globalization) | 15 | 
+| [Bottom-Up and Top-Down Reasoning With Hierarchical Rectified Gaussians](http://openaccess.thecvf.com/content_cvpr_2016/html/Hu_Bottom-Up_and_Top-Down_CVPR_2016_paper.html) | CVPR | [code](https://github.com/peiyunh/rg-mpii) | 15 | 
 | [Quantized Convolutional Neural Networks for Mobile Devices](http://openaccess.thecvf.com/content_cvpr_2016/html/Wu_Quantized_Convolutional_Neural_CVPR_2016_paper.html) | CVPR | [code](https://github.com/OluwoleOyetoke/Computer_Vision_Using_TensorFlowLite) | 14 | 
 | [Single-Image Crowd Counting via Multi-Column Convolutional Neural Network](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.html) | CVPR | [code](https://github.com/uestcchicken/crowd-counting-MCNN) | 14 | 
 | [ReconNet: Non-Iterative Reconstruction of Images From Compressively Sensed Measurements](http://openaccess.thecvf.com/content_cvpr_2016/html/Kulkarni_ReconNet_Non-Iterative_Reconstruction_CVPR_2016_paper.html) | CVPR | [code](https://github.com/KuldeepKulkarni/ReconNet) | 13 | 
@@ -1296,26 +1298,25 @@ This work is in continuous progress and update. We are adding new PWC everyday! 
 | [Personalizing Human Video Pose Estimation](http://openaccess.thecvf.com/content_cvpr_2016/html/Charles_Personalizing_Human_Video_CVPR_2016_paper.html) | CVPR | [code](https://github.com/jjcharles/personalized_pose) | 10 | 
 | [Automatic Content-Aware Color and Tone Stylization](http://openaccess.thecvf.com/content_cvpr_2016/html/Lee_Automatic_Content-Aware_Color_CVPR_2016_paper.html) | CVPR | [code](https://github.com/jinyu121/ACACTS) | 9 | 
 | [Region Ranking SVM for Image Classification](http://openaccess.thecvf.com/content_cvpr_2016/html/Wei_Region_Ranking_SVM_CVPR_2016_paper.html) | CVPR | [code](https://github.com/zijunwei/Region-Ranking-SVM) | 8 | 
-| [Image Style Transfer Using Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html) | CVPR | [code](https://github.com/Achilles-96/Neural-Image-Style-Transfer) | 8 | 
-| [Pairwise Matching Through Max-Weight Bipartite Belief Propagation](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhang_Pairwise_Matching_Through_CVPR_2016_paper.html) | CVPR | [code](https://github.com/zzhang1987/HungarianBP) | 7 | 
 | [Unsupervised Learning From Narrated Instruction Videos](http://openaccess.thecvf.com/content_cvpr_2016/html/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.html) | CVPR | [code](https://github.com/jalayrac/instructionVideos) | 7 | 
+| [Pairwise Matching Through Max-Weight Bipartite Belief Propagation](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhang_Pairwise_Matching_Through_CVPR_2016_paper.html) | CVPR | [code](https://github.com/zzhang1987/HungarianBP) | 7 | 
 | [Detecting Migrating Birds at Night](http://openaccess.thecvf.com/content_cvpr_2016/html/Huang_Detecting_Migrating_Birds_CVPR_2016_paper.html) | CVPR | [code](https://github.com/jbhuang0604/BirdDetection) | 7 | 
 | [Visually Indicated Sounds](http://openaccess.thecvf.com/content_cvpr_2016/html/Owens_Visually_Indicated_Sounds_CVPR_2016_paper.html) | CVPR | [code](https://github.com/kanchen-usc/VIG) | 7 | 
 | [Where to Look: Focus Regions for Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2016/html/Shih_Where_to_Look_CVPR_2016_paper.html) | CVPR | [code](https://github.com/kevjshih/wtl_vqa) | 7 | 
 | [Deep Hand: How to Train a CNN on 1 Million Hand Images When Your Data Is Continuous and Weakly Labelled](http://openaccess.thecvf.com/content_cvpr_2016/html/Koller_Deep_Hand_How_CVPR_2016_paper.html) | CVPR | [code](https://github.com/neccam/TF-DeepHand) | 6 | 
+| [Efficient and Robust Color Consistency for Community Photo Collections](http://openaccess.thecvf.com/content_cvpr_2016/html/Park_Efficient_and_Robust_CVPR_2016_paper.html) | CVPR | [code](https://github.com/syncle/photo_consistency) | 6 | 
 | [Patch-Based Convolutional Neural Network for Whole Slide Tissue Image Classification](http://openaccess.thecvf.com/content_cvpr_2016/html/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.html) | CVPR | [code](https://github.com/cheersyouran/cancer-detector) | 6 | 
 | [3D Shape Attributes](http://openaccess.thecvf.com/content_cvpr_2016/html/Fouhey_3D_Shape_Attributes_CVPR_2016_paper.html) | CVPR | [code](https://github.com/petermalcolm/estimate3DStep) | 6 | 
-| [Efficient and Robust Color Consistency for Community Photo Collections](http://openaccess.thecvf.com/content_cvpr_2016/html/Park_Efficient_and_Robust_CVPR_2016_paper.html) | CVPR | [code](https://github.com/syncle/photo_consistency) | 6 | 
 | [Visual Tracking Using Attention-Modulated Disintegration and Integration](http://openaccess.thecvf.com/content_cvpr_2016/html/Choi_Visual_Tracking_Using_CVPR_2016_paper.html) | CVPR | [code](https://github.com/jongwon20000/SCT) | 5 | 
-| [Beyond Local Search: Tracking Objects Everywhere With Instance-Specific Proposals](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Beyond_Local_Search_CVPR_2016_paper.html) | CVPR | [code](https://github.com/GaoCode/EBT) | 5 | 
+| [Online Detection and Classification of Dynamic Hand Gestures With Recurrent 3D Convolutional Neural Network](http://openaccess.thecvf.com/content_cvpr_2016/html/Molchanov_Online_Detection_and_CVPR_2016_paper.html) | CVPR | [code](https://github.com/breadbread1984/R3DCNN) | 5 | 
 | [Learning a Discriminative Null Space for Person Re-Identification](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhang_Learning_a_Discriminative_CVPR_2016_paper.html) | CVPR | [code](https://github.com/lzrobots/NullSpace_ReID) | 5 | 
 | [Functional Faces: Groupwise Dense Correspondence Using Functional Maps](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhang_Functional_Faces_Groupwise_CVPR_2016_paper.html) | CVPR | [code](https://github.com/cazhang/funcFaces) | 5 | 
-| [Online Detection and Classification of Dynamic Hand Gestures With Recurrent 3D Convolutional Neural Network](http://openaccess.thecvf.com/content_cvpr_2016/html/Molchanov_Online_Detection_and_CVPR_2016_paper.html) | CVPR | [code](https://github.com/breadbread1984/R3DCNN) | 5 | 
+| [Beyond Local Search: Tracking Objects Everywhere With Instance-Specific Proposals](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Beyond_Local_Search_CVPR_2016_paper.html) | CVPR | [code](https://github.com/GaoCode/EBT) | 5 | 
 | [Object Contour Detection With a Fully Convolutional Encoder-Decoder Network](http://openaccess.thecvf.com/content_cvpr_2016/html/Yang_Object_Contour_Detection_CVPR_2016_paper.html) | CVPR | [code](https://github.com/Raj-08/tensorflow-object-contour-detection) | 4 | 
-| [Globally Optimal Manhattan Frame Estimation in Real-Time](http://openaccess.thecvf.com/content_cvpr_2016/html/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.html) | CVPR | [code](https://github.com/Kyungdon/mf_estimation) | 4 | 
-| [Efficient Deep Learning for Stereo Matching](http://openaccess.thecvf.com/content_cvpr_2016/html/Luo_Efficient_Deep_Learning_CVPR_2016_paper.html) | CVPR | [code](https://github.com/haojeng-wang/dl_stereo_matching) | 4 | 
-| [Prior-Less Compressible Structure From Motion](http://openaccess.thecvf.com/content_cvpr_2016/html/Kong_Prior-Less_Compressible_Structure_CVPR_2016_paper.html) | CVPR | [code](https://github.com/kongchen1992/compressible-sfm) | 4 | 
 | [Improving Human Action Recognition by Non-Action Classification](http://openaccess.thecvf.com/content_cvpr_2016/html/Wang_Improving_Human_Action_CVPR_2016_paper.html) | CVPR | [code](https://github.com/yangwangx/NonActionShot) | 4 | 
+| [Prior-Less Compressible Structure From Motion](http://openaccess.thecvf.com/content_cvpr_2016/html/Kong_Prior-Less_Compressible_Structure_CVPR_2016_paper.html) | CVPR | [code](https://github.com/kongchen1992/compressible-sfm) | 4 | 
+| [Efficient Deep Learning for Stereo Matching](http://openaccess.thecvf.com/content_cvpr_2016/html/Luo_Efficient_Deep_Learning_CVPR_2016_paper.html) | CVPR | [code](https://github.com/haojeng-wang/dl_stereo_matching) | 4 | 
+| [Globally Optimal Manhattan Frame Estimation in Real-Time](http://openaccess.thecvf.com/content_cvpr_2016/html/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.html) | CVPR | [code](https://github.com/Kyungdon/mf_estimation) | 4 | 
 | [DenseCap: Fully Convolutional Localization Networks for Dense Captioning](http://openaccess.thecvf.com/content_cvpr_2016/html/Johnson_DenseCap_Fully_Convolutional_CVPR_2016_paper.html) | CVPR | [code](https://github.com/rampage644/densecap-tensorflow) | 3 | 
 | [Context-Aware Gaussian Fields for Non-Rigid Point Set Registration](http://openaccess.thecvf.com/content_cvpr_2016/html/Wang_Context-Aware_Gaussian_Fields_CVPR_2016_paper.html) | CVPR | [code](https://github.com/gwang-cv/CA-LapGF-Demo) | 3 | 
 | [Recurrent Attentional Networks for Saliency Detection](http://openaccess.thecvf.com/content_cvpr_2016/html/Kuen_Recurrent_Attentional_Networks_CVPR_2016_paper.html) | CVPR | [code](https://github.com/zhangxiaoning666/PAGR) | 3 | 
@@ -1335,6 +1336,7 @@ This work is in continuous progress and update. We are adding new PWC everyday! 
 | [Fast Algorithms for Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2016/html/Lavin_Fast_Algorithms_for_CVPR_2016_paper.html) | CVPR | [code](https://github.com/istoony/winograd-convolutional-nn) | 1 | 
 | [Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks](http://openaccess.thecvf.com/content_cvpr_2016/html/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.html) | CVPR | [code](https://github.com/JaywongWang/Video-Paragraph-Captioning) | 1 | 
 | [Laplacian Patch-Based Image Synthesis](http://openaccess.thecvf.com/content_cvpr_2016/html/Lee_Laplacian_Patch-Based_Image_CVPR_2016_paper.html) | CVPR | [code](https://github.com/KAIST-VCLAB/laplacianinpainting) | 1 | 
+ 
 ## 2015
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
@@ -1463,7 +1465,7 @@ This work is in continuous progress and update. We are adding new PWC everyday! 
 | [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://openaccess.thecvf.com/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html) | CVPR | [code](https://github.com/rszeto/eecs-692-replication-project) | 1 | 
 | [Self-Occlusions and Disocclusions in Causal Video Object Segmentation](http://openaccess.thecvf.com/content_iccv_2015/html/Yang_Self-Occlusions_and_Disocclusions_ICCV_2015_paper.html) | ICCV | [code](https://github.com/ycyang12/SODVS) | 1 | 
 | [Latent Trees for Estimating Intensity of Facial Action Units](http://openaccess.thecvf.com/content_cvpr_2015/html/Kaltwang_Latent_Trees_for_2015_CVPR_paper.html) | CVPR | [code](https://github.com/kaltwang/2015latent) | 1 | 
-| [Robust Optimization for Deep Regression](http://openaccess.thecvf.com/content_iccv_2015/html/Belagiannis_Robust_Optimization_for_ICCV_2015_paper.html) | ICCV | [code](https://github.com/AIHGF/matconvnet-deepReg) | 1 | 	
+| [Robust Optimization for Deep Regression](http://openaccess.thecvf.com/content_iccv_2015/html/Belagiannis_Robust_Optimization_for_ICCV_2015_paper.html) | ICCV | [code](https://github.com/AIHGF/matconvnet-deepReg) | 1 | 
 ## 2014
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
