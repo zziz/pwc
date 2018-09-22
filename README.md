@@ -7,7 +7,8 @@
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 
 This work is in continuous progress and update. We are adding new PWC everyday! Tweet me [@fvzaur](https://twitter.com/fvzaur)   
-Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favorite conference to be added to our watchlist and to PWC list.   
+Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favorite conference to be added to our watchlist and to PWC list.    
+#### Latest update: New header with Logo added! Many Thanks to [IronPark](https://github.com/IronPark)!  
 
  
 ## 2018
