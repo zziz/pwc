@@ -1,4 +1,1015 @@
 paper_title,paper_link,conference,year,repo_link,repo_star,last_update
+Glow: Generative Flow with Invertible 1x1 Convolutions,http://arxiv.org/abs/1807.03039v2,NIPS,2018,https://github.com/openai/glow,1825,2018-09-23
+PointCNN,http://arxiv.org/abs/1801.07791v3,NIPS,2018,https://github.com/yangyanli/PointCNN,476,2018-09-23
+Pelee: A Real-Time Object Detection System on Mobile Devices,,NIPS,2018,https://github.com/Robert-JunWang/Pelee,425,2018-09-23
+Re-evaluating evaluation,,NIPS,2018,,-1,2018-09-23
+Supervising Unsupervised Learning,http://arxiv.org/abs/1709.05262v2,NIPS,2018,https://github.com/quinnliu/machineLearning,253,2018-09-23
+An intriguing failing of convolutional neural networks and the CoordConv solution,https://arxiv.org/abs/1807.03247,NIPS,2018,https://github.com/mkocabas/CoordConv-pytorch,227,2018-09-23
+Bilinear Attention Networks,http://arxiv.org/abs/1805.07932v1,NIPS,2018,https://github.com/jnhwkim/ban-vqa,210,2018-09-23
+Latent Alignment and Variational Attention,http://arxiv.org/abs/1807.03756v1,NIPS,2018,https://github.com/harvardnlp/var-attn,167,2018-09-23
+Evolved Policy Gradients,http://arxiv.org/abs/1802.04821v2,NIPS,2018,https://github.com/openai/EPG,146,2018-09-23
+Relational recurrent neural networks,https://arxiv.org/abs/1806.01822,NIPS,2018,https://github.com/L0SG/relational-rnn-pytorch,118,2018-09-23
+L4: Practical loss-based stepsize adaptation for deep learning,http://arxiv.org/abs/1802.05074v4,NIPS,2018,https://github.com/martius-lab/l4-optimizer,116,2018-09-23
+On Learning Markov Chains,,NIPS,2018,,-1,2018-09-23
+Neural Arithmetic Logic Units,http://arxiv.org/abs/1808.00508v1,NIPS,2018,https://github.com/llSourcell/Neural_Arithmetic_Logic_Units,86,2018-09-23
+Recurrent Relational Networks,http://arxiv.org/abs/1711.08028v2,NIPS,2018,https://github.com/rasmusbergpalm/recurrent-relational-networks,70,2018-09-23
+One-Shot Unsupervised Cross Domain Translation,http://arxiv.org/abs/1806.06029v1,NIPS,2018,https://github.com/sagiebenaim/OneShotTranslation,60,2018-09-23
+Realistic Evaluation of Deep Semi-Supervised Learning Algorithms,http://arxiv.org/abs/1804.09170v2,NIPS,2018,https://github.com/brain-research/realistic-ssl-evaluation,58,2018-09-23
+Generative Neural Machine Translation,http://arxiv.org/abs/1806.05138v1,NIPS,2018,https://github.com/ZhenYangIACAS/NMT_GAN,52,2018-09-23
+Learning towards Minimum Hyperspherical Energy,http://arxiv.org/abs/1805.09298v4,NIPS,2018,https://github.com/wy1iu/MHE,42,2018-09-23
+Unsupervised Attention-guided Image-to-Image Translation,https://arxiv.org/abs/1806.02311,NIPS,2018,https://github.com/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation,40,2018-09-23
+Generative Adversarial Examples,,NIPS,2018,,-1,2018-09-23
+Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation,https://arxiv.org/abs/1802.09987,NIPS,2018,https://github.com/EdwardSmith1884/Multi-View-Silhouette-and-Depth-Decomposition-for-High-Resolution-3D-Object-Representation,30,2018-09-23
+Structure-Aware Convolutional Neural Networks,,NIPS,2018,,-1,2018-09-23
+Generalisation in humans and deep neural networks,http://arxiv.org/abs/1808.08750v1,NIPS,2018,https://github.com/rgeirhos/generalisation-humans-DNNs,27,2018-09-23
+Graphical Generative Adversarial Networks,http://arxiv.org/abs/1804.03429v1,NIPS,2018,https://github.com/zhenxuan00/graphical-gan,27,2018-09-23
+Adversarial Logit Pairing,http://arxiv.org/abs/1803.06373v1,NIPS,2018,https://github.com/labsix/adversarial-logit-pairing-analysis,26,2018-09-23
+Neural Guided Constraint Logic Programming for Program Synthesis,http://arxiv.org/abs/1809.02840v2,NIPS,2018,https://github.com/xuexue/neuralkanren,25,2018-09-23
+Regularization Learning Networks,,NIPS,2018,,-1,2018-09-23
+Isolating Sources of Disentanglement in Variational Autoencoders,http://arxiv.org/abs/1802.04942v2,NIPS,2018,https://github.com/rtqichen/beta-tcvae,21,2018-09-23
+SimplE Embedding for Link Prediction in Knowledge Graphs,http://arxiv.org/abs/1802.04868v1,NIPS,2018,https://github.com/Mehran-k/SimplE,19,2018-09-23
+Recurrently Controlled Recurrent Networks,,NIPS,2018,,-1,2018-09-23
+Hyperbolic Neural Networks,http://arxiv.org/abs/1805.09112v2,NIPS,2018,https://github.com/dalab/hyperbolic_nn,17,2018-09-23
+Learning to Multitask,http://arxiv.org/abs/1805.07541v1,NIPS,2018,https://github.com/jfutoma/MGP-RNN,16,2018-09-23
+LF-Net: Learning Local Features from Images,https://arxiv.org/abs/1805.09662,NIPS,2018,https://github.com/vcg-uvic/lf-net-release,16,2018-09-23
+Video-to-Video Synthesis,https://arxiv.org/abs/1808.06601,NIPS,2018,https://github.com/NVIDIA/vid2vid,4313,2018-09-23
+DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors,http://arxiv.org/abs/1805.07445v3,NIPS,2018,https://github.com/dojoteef/dvae,15,2018-09-23
+Deep Reinforcement Learning of Marked Temporal Point Processes,http://arxiv.org/abs/1805.09360v1,NIPS,2018,https://github.com/Networks-Learning/tpprl,15,2018-09-23
+Neural Architecture Search with Bayesian Optimisation and Optimal Transport,https://arxiv.org/abs/1802.07191,NIPS,2018,https://github.com/kirthevasank/nasbot,14,2018-09-23
+3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data,https://arxiv.org/abs/1807.02547,NIPS,2018,https://github.com/mariogeiger/se3cnn,14,2018-09-23
+Neural Code Comprehension: A Learnable Representation of Code Semantics,http://arxiv.org/abs/1806.07336v2,NIPS,2018,https://github.com/spcl/ncc,13,2018-09-23
+Link Prediction Based on Graph Neural Networks,http://arxiv.org/abs/1802.09691v2,NIPS,2018,https://github.com/muhanzhang/SEAL,12,2018-09-23
+Neural Ordinary Differential Equations,,NIPS,2018,,-1,2018-09-23
+Densely Connected Attention Propagation for Reading Comprehension,https://nips.cc/Conferences/2018/Schedule?showEvent=11481,NIPS,2018,https://github.com/vanzytay/NIPS2018_DECAPROP,10,2018-09-23
+Lipschitz-Margin Training: Scalable Certification of Perturbation Invariance for Deep Neural Networks,https://arxiv.org/abs/1802.04034,NIPS,2018,https://github.com/ytsmiling/lmt,10,2018-09-23
+Kalman Normalization,,NIPS,2018,,-1,2018-09-23
+Speaker-Follower Models for Vision-and-Language Navigation,https://arxiv.org/abs/1806.02724,NIPS,2018,https://github.com/ronghanghu/speaker_follower,9,2018-09-23
+Learning Conditioned Graph Structures for Interpretable Visual Question Answering,,NIPS,2018,https://github.com/aimbrain/vqa-project,8,2018-09-23
+A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation,https://arxiv.org/abs/1809.01361,NIPS,2018,https://github.com/XenderLiu/UFDN,8,2018-09-23
+Adaptive Skip Intervals: Temporal Abstraction for Recurrent Dynamical Models,https://arxiv.org/abs/1808.04768,NIPS,2018,https://github.com/neitzal/adaptive-skip-intervals,8,2018-09-23
+PacGAN: The power of two samples in generative adversarial networks,http://arxiv.org/abs/1712.04086v2,NIPS,2018,https://github.com/fjxmlzn/PacGAN,7,2018-09-23
+Neural Nearest Neighbors Networks,,NIPS,2018,,-1,2018-09-23
+On GANs and GMMs,http://arxiv.org/abs/1805.12462v1,NIPS,2018,https://github.com/eitanrich/gans-n-gmms,6,2018-09-23
+Generative Probabilistic Novelty Detection with Adversarial Autoencoders,http://arxiv.org/abs/1807.02588v1,NIPS,2018,https://github.com/podgorskiy/GPND,6,2018-09-23
+Evolutionary Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+Visualizing the Loss Landscape of Neural Nets,http://arxiv.org/abs/1712.09913v2,NIPS,2018,https://github.com/tomgoldstein/loss-landscape,5,2018-09-23
+Neural Architecture Optimization,http://arxiv.org/abs/1808.07233v3,NIPS,2018,https://github.com/dicarlolab/archconvnets,5,2018-09-23
+Generalizing to Unseen Domains via Adversarial Data Augmentation,http://arxiv.org/abs/1805.12018v1,NIPS,2018,https://github.com/ricvolpi/generalize-unseen-domains,4,2018-09-23
+Breaking the Activation Function Bottleneck through Adaptive Parameterization,https://arxiv.org/abs/1805.08574,NIPS,2018,https://github.com/flennerhag/alstm,4,2018-09-23
+Quadrature-based features for kernel approximation,http://arxiv.org/abs/1802.03832v3,NIPS,2018,https://github.com/quffka/quffka,4,2018-09-23
+Banach Wasserstein GAN,http://arxiv.org/abs/1806.06621v1,NIPS,2018,https://github.com/adler-j/bwgan,3,2018-09-23
+The Description Length of Deep Learning models,https://arxiv.org/abs/1802.07044,NIPS,2018,https://github.com/leonardblier/descriptionlengthdeeplearning,3,2018-09-23
+BourGAN: Generative Networks with Metric Embeddings,https://arxiv.org/abs/1805.07674,NIPS,2018,https://github.com/a554b554/BourGAN,3,2018-09-23
+Assessing Generative Models via Precision and Recall,http://arxiv.org/abs/1806.00035v1,NIPS,2018,https://github.com/msmsajjadi/precision-recall-distributions,3,2018-09-23
+Multimodal Generative Models for Scalable Weakly-Supervised Learning,http://arxiv.org/abs/1802.05335v2,NIPS,2018,https://github.com/mhw32/multimodal-vae-public,3,2018-09-23
+Attention in Convolutional LSTM for Gesture Recognition,https://nips.cc/Conferences/2018/Schedule?showEvent=11207,NIPS,2018,https://github.com/GuangmingZhu/AttentionConvLSTM,3,2018-09-23
+Deepcode: Feedback Codes via Deep Learning,http://arxiv.org/abs/1807.00801v1,NIPS,2018,https://github.com/hyejikim1/Deepcode,3,2018-09-23
+Statistical Recurrent Models on Manifold valued Data,http://arxiv.org/abs/1805.11204v1,NIPS,2018,https://github.com/zhenxingjian/SPD-SRU,3,2018-09-23
+Reversible Recurrent Neural Networks,,NIPS,2018,https://github.com/gan3sh500/revrnn,2,2018-09-23
+To Trust Or Not To Trust A Classifier,http://arxiv.org/abs/1805.11783v1,NIPS,2018,https://github.com/google/TrustScore,2,2018-09-23
+Information Constraints on Auto-Encoding Variational Bayes,http://arxiv.org/abs/1805.08672v2,NIPS,2018,https://github.com/romain-lopez/HCV,2,2018-09-23
+Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives,,NIPS,2018,https://github.com/IBM/Contrastive-Explanation-Method,1,2018-09-23
+A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks,,NIPS,2018,https://github.com/pokaxpoka/deep_Mahalanobis_detector,1,2018-09-23
+Gradient Descent for Spiking Neural Networks,http://arxiv.org/abs/1706.04698v2,NIPS,2018,https://github.com/vikram-mm/Spiking-Neural-Network---Theano-Framework,1,2018-09-23
+Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation,,NIPS,2018,https://github.com/rwenqi/NBD-GLRA,1,2018-09-23
+Maximum Causal Tsallis Entropy Imitation Learning,http://arxiv.org/abs/1805.08336v2,NIPS,2018,https://github.com/kyungjaelee/MCTEIL,1,2018-09-23
+CapProNet: Deep Feature Learning via Orthogonal Projections onto Capsule Subspaces,,NIPS,2018,https://github.com/maple-research-lab/CapProNet,1,2018-09-23
+Found Graph Data and Planted Vertex Covers,http://arxiv.org/abs/1805.01209v1,NIPS,2018,https://github.com/arbenson/FGDnPVC,1,2018-09-23
+Playing hard exploration games by watching YouTube,http://arxiv.org/abs/1805.11592v1,NIPS,2018,https://github.com/dnddnjs/learning-from-youtube,1,2018-09-23
+The committee machine: Computational to statistical gaps in learning a two-layers neural network,,NIPS,2018,https://github.com/benjaminaubin/TheCommitteeMachine,1,2018-09-23
+Multi-Layered Gradient Boosting Decision Trees,,NIPS,2018,https://github.com/limberc/ML-GBDT,1,2018-09-23
+Distributionally Robust Graphical Models,,NIPS,2018,https://github.com/Narendhar123/Linear-Regression-Algoritham-,1,2018-09-23
+Co-teaching: Robust Training Deep Neural Networks with Extremely Noisy Labels,,NIPS,2018,https://github.com/char256/co-teaching_bohan_et.al,1,2018-09-23
+Multilingual Anchoring: Interactive Topic Modeling and Alignment Across Languages,,NIPS,2018,https://github.com/forest-snow/mtanchor_demo,1,2018-09-23
+ResNet with one-neuron hidden layers is a Universal Approximator,http://arxiv.org/abs/1806.10909v2,NIPS,2018,https://github.com/vinsis/points-in-2d,0,2018-09-23
+Boosted Sparse and Low-Rank Tensor Regression,,NIPS,2018,https://github.com/LifangHe/SURF,0,2018-09-23
+Deep Defense: Training DNNs with Improved Adversarial Robustness,http://arxiv.org/abs/1803.00404v2,NIPS,2018,https://github.com/ZiangYan/deepdefense.pytorch,0,2018-09-23
+Bayesian Adversarial Learning,,NIPS,2018,https://github.com/GaganNarula/BirdsongGAN_sequencelearning,0,2018-09-23
+Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning,http://arxiv.org/abs/1807.03146v1,NIPS,2018,https://github.com/ihankyang/keypoint-network,0,2018-09-23
+Gaussian Process Conditional Density Estimation,,NIPS,2018,https://github.com/richardbayes/bayes-treed-cde,0,2018-09-23
+Supervised Local Modeling for Interpretability,http://arxiv.org/abs/1807.02910v1,NIPS,2018,https://github.com/GDPlumb/SLIM,0,2018-09-23
+Processing of missing data by neural networks,http://arxiv.org/abs/1805.07405v2,NIPS,2018,https://github.com/mzkhan2000/TypeNeuralModel,0,2018-09-23
+COLA: Decentralized Linear Learning,,NIPS,2018,https://github.com/epfml/cola,0,2018-09-23
+Non-metric Similarity Graphs for Maximum Inner Product Search,,NIPS,2018,https://github.com/stanis-morozov/ip-nsw,0,2018-09-23
+Algorithmic Assurance: An Active Approach to Algorithmic Testing using Bayesian Optimisation,,NIPS,2018,https://github.com/shivapratap/AlgorithmicAssurance_NIPS2018,0,2018-09-23
+Large-Scale Stochastic Sampling from the Probability Simplex,http://arxiv.org/abs/1806.07137v1,NIPS,2018,https://github.com/jbaker92/SCIR,0,2018-09-23
+Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction,,NIPS,2018,https://github.com/nips2018axiomatic/Mapping-Images-to-Scene-Graphs-master,0,2018-09-23
+Data-Efficient Hierarchical Reinforcement Learning,,NIPS,2018,https://github.com/lizhuoru/aaai17,0,2018-09-23
+Hamiltonian Variational Auto-Encoder,,NIPS,2018,https://github.com/ericZYZ/HVI-RMHVI-for-VAE,0,2018-09-23
+Learning SMaLL Predictors,http://arxiv.org/abs/1803.02388v1,NIPS,2018,https://github.com/retropean/mspa-apps,0,2018-09-23
+Reducing Network Agnostophobia,,NIPS,2018,https://github.com/Vastlab/Reducing-Network-Agnostophobia,0,2018-09-23
+ATOMO: Communication-efficient Learning via Atomic Sparsification,http://arxiv.org/abs/1806.04090v2,NIPS,2018,https://github.com/hwang595/ATOMO,0,2018-09-23
+Neural Voice Cloning with a Few Samples,http://arxiv.org/abs/1802.06006v2,NIPS,2018,https://github.com/IEEE-NITK/Neural-Voice-Cloning,0,2018-09-23
+Bayesian Nonparametric Spectral Estimation,,NIPS,2018,https://github.com/cran/bsplinePsd,0,2018-09-23
+Learning Abstract Options,,NIPS,2018,https://github.com/petterasla/IECCS,0,2018-09-23
+Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior,,NIPS,2018,https://github.com/Learning-and-Intelligent-Systems/meta-bo,0,2018-09-23
+On Word Embedding Dimensionality,,NIPS,2018,https://github.com/yukubo/sample_word2vec_skipgram,0,2018-09-23
+Deep Neural Networks with Box Convolutions,,NIPS,2018,https://github.com/vvoluom/Neural-Networks,0,2018-09-23
+DeepPINK: reproducible feature selection in deep neural networks,http://arxiv.org/abs/1809.01185v2,NIPS,2018,https://github.com/younglululu/DeepPINK,0,2018-09-23
+Orthogonally Decoupled Variational Gaussian Processes,http://arxiv.org/abs/1809.08820v1,NIPS,2018,https://github.com/hughsalimbeni/orth_decoupled_var_gps,0,2018-09-23
+Transfer of Deep Reactive Policies for MDP Planning,,NIPS,2018,,-1,2018-09-23
+MixLasso: Generalized Mixed Regression via Convex Atomic-Norm Regularization,,NIPS,2018,,-1,2018-09-23
+Bias and Generalization in Deep Generative Models: An Empirical Study,,NIPS,2018,,-1,2018-09-23
+Autoconj: Recognizing and Exploiting Conjugacy Without a Domain-Specific Language,,NIPS,2018,,-1,2018-09-23
+Sketching Method for Large Scale Combinatorial Inference,,NIPS,2018,,-1,2018-09-23
+Deep Generative Models with Learnable Knowledge Constraints,http://arxiv.org/abs/1806.09764v1,NIPS,2018,,-1,2018-09-23
+Deep Learning for Supercomputers: Distributed Tensor Layouts Define Distributed Computation,,NIPS,2018,,-1,2018-09-23
+Context-aware Synthesis and Placement of Object Instances,,NIPS,2018,,-1,2018-09-23
+Adversarial Risk and Robustness for Discrete Distributions,,NIPS,2018,,-1,2018-09-23
+PCA of high dimensional stochastic processes,,NIPS,2018,,-1,2018-09-23
+Total stochastic gradient algorithms and applications in reinforcement learning,,NIPS,2018,,-1,2018-09-23
+A Retrieve-and-Edit Framework for Predicting Structured Outputs,,NIPS,2018,,-1,2018-09-23
+Learning and Testing Causal Models with Interventions,http://arxiv.org/abs/1805.09697v1,NIPS,2018,,-1,2018-09-23
+Identification and Estimation of Causal Effects from Dependent Data,,NIPS,2018,,-1,2018-09-23
+Learning Compressed Transforms with Low Displacement Rank,,NIPS,2018,,-1,2018-09-23
+Data Amplification: A Unified and Competitive Approach to Property Estimation,,NIPS,2018,,-1,2018-09-23
+A flexible neural representation for physics prediction,,NIPS,2018,,-1,2018-09-23
+Approximate Knowledge Compilation by Online Collapsed Importance Sampling,,NIPS,2018,,-1,2018-09-23
+Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization,,NIPS,2018,,-1,2018-09-23
+Adversarial Scene Editing: Automatic Object Removal from Weak Supervision,,NIPS,2018,,-1,2018-09-23
+Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks,,NIPS,2018,,-1,2018-09-23
+CatBoost: unbiased boosting with categorical features,http://arxiv.org/abs/1706.09516v3,NIPS,2018,,-1,2018-09-23
+Reparameterization Gradient for Non-differentiable Models,http://arxiv.org/abs/1806.00176v1,NIPS,2018,,-1,2018-09-23
+Meta-Reinforcement Learning of Structured Exploration Strategies,http://arxiv.org/abs/1802.07245v1,NIPS,2018,,-1,2018-09-23
+Explaining Deep Learning Models -- A Bayesian Non-parametric Approach,,NIPS,2018,,-1,2018-09-23
+Expanding Holographic Embeddings for Knowledge Completion,,NIPS,2018,,-1,2018-09-23
+Probabilistic Neural Programmed Networks for Scene Generation,,NIPS,2018,,-1,2018-09-23
+Stochastic Nested Variance Reduced Gradient Descent for Nonconvex Optimization,,NIPS,2018,,-1,2018-09-23
+Inferring Networks From Random Walk-Based Node Similarities,,NIPS,2018,,-1,2018-09-23
+Tight Bounds for Collaborative PAC Learning via Multiplicative Weights,http://arxiv.org/abs/1805.09217v1,NIPS,2018,,-1,2018-09-23
+Step Size Matters in Deep Learning,http://arxiv.org/abs/1805.08890v1,NIPS,2018,,-1,2018-09-23
+Learning to Optimize Tensor Programs,http://arxiv.org/abs/1805.08166v1,NIPS,2018,,-1,2018-09-23
+Training deep learning based denoisers without ground truth data,http://arxiv.org/abs/1803.01314v2,NIPS,2018,,-1,2018-09-23
+Learning latent variable structured prediction models with Gaussian perturbations,,NIPS,2018,,-1,2018-09-23
+Efficiency of adaptive importance sampling,,NIPS,2018,,-1,2018-09-23
+Global Convergence of Langevin Dynamics Based Algorithms for Nonconvex Optimization,,NIPS,2018,,-1,2018-09-23
+Q-learning with Nearest Neighbors,http://arxiv.org/abs/1802.03900v1,NIPS,2018,,-1,2018-09-23
+On Binary Classification in Extreme Regions,,NIPS,2018,,-1,2018-09-23
+Faithful Inversion of Generative Models for Effective Amortized Inference,,NIPS,2018,,-1,2018-09-23
+Constructing Deep Neural Networks by Bayesian Network Structure Learning,http://arxiv.org/abs/1806.09141v1,NIPS,2018,,-1,2018-09-23
+On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport,,NIPS,2018,,-1,2018-09-23
+Optimistic Optimization of a Brownian,,NIPS,2018,,-1,2018-09-23
+Optimization over Continuous and Multi-dimensional Decisions with Observational Data,,NIPS,2018,,-1,2018-09-23
+Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base,,NIPS,2018,,-1,2018-09-23
+Mirrored Langevin Dynamics,http://arxiv.org/abs/1802.10174v4,NIPS,2018,,-1,2018-09-23
+Metric on Nonlinear Dynamical Systems with Koopman Operators,http://arxiv.org/abs/1805.12324v1,NIPS,2018,,-1,2018-09-23
+Empirical Risk Minimization Under Fairness Constraints,,NIPS,2018,,-1,2018-09-23
+Analytic solution and stationary phase approximation for the Bayesian lasso and elastic net,,NIPS,2018,,-1,2018-09-23
+Paraphrasing Complex Network: Network Compression via Factor Transfer,http://arxiv.org/abs/1802.04977v1,NIPS,2018,,-1,2018-09-23
+Optimal Algorithms for Non-Smooth Distributed Optimization in Networks,,NIPS,2018,,-1,2018-09-23
+Learning Hierarchical Semantic Image Manipulation through Structured Representations,,NIPS,2018,,-1,2018-09-23
+Minimax Statistical Learning with Wasserstein distances,,NIPS,2018,,-1,2018-09-23
+Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering,,NIPS,2018,,-1,2018-09-23
+Representation Learning for Treatment Effect Estimation from Observational Data,,NIPS,2018,,-1,2018-09-23
+Online Learning with an Unknown Fairness Metric,http://arxiv.org/abs/1802.06936v2,NIPS,2018,,-1,2018-09-23
+Structural Causal Bandits: Where to Intervene?,,NIPS,2018,,-1,2018-09-23
+Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks,,NIPS,2018,,-1,2018-09-23
+Active Learning for Non-Parametric Regression Using Purely Random Trees,,NIPS,2018,,-1,2018-09-23
+Verifiable Reinforcement Learning via Policy Extraction,http://arxiv.org/abs/1805.08328v1,NIPS,2018,,-1,2018-09-23
+A theory on the absence of spurious optimality,http://arxiv.org/abs/1805.08204v2,NIPS,2018,,-1,2018-09-23
+Learning to Navigate in Cities Without a Map,http://arxiv.org/abs/1804.00168v2,NIPS,2018,,-1,2018-09-23
+Meta-Gradient Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+Local Differential Privacy for Evolving Data,http://arxiv.org/abs/1802.07128v2,NIPS,2018,,-1,2018-09-23
+"Modelling sparsity, heterogeneity, reciprocity and community structure in temporal interaction data",,NIPS,2018,,-1,2018-09-23
+GIANT: Globally Improved Approximate Newton Method for Distributed Optimization,,NIPS,2018,,-1,2018-09-23
+Structured Local Minima in Sparse Blind Deconvolution,,NIPS,2018,,-1,2018-09-23
+Breaking the Span Assumption Yields Fast Finite-Sum Minimization,http://arxiv.org/abs/1805.07786v1,NIPS,2018,,-1,2018-09-23
+Zero-Shot Transfer with Deictic Object-Oriented Representation in Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+Trajectory Convolution for Action Recognition,,NIPS,2018,,-1,2018-09-23
+MULAN: A Blind and Off-Grid Method for Multichannel Echo Retrieval,,NIPS,2018,,-1,2018-09-23
+Dual Principal Component Pursuit: Improved Analysis and Efficient Algorithms,,NIPS,2018,,-1,2018-09-23
+DeepExposure: Learning to Expose Photos with Asynchronously Reinforced Adversarial Learning,,NIPS,2018,,-1,2018-09-23
+Regularizing by the Variance of the Activations' Sample-Variances,,NIPS,2018,,-1,2018-09-23
+Nonparametric learning for Bayesian models via randomized objective functions,,NIPS,2018,,-1,2018-09-23
+Learning Optimal Reserve Price against Non-myopic Bidders,http://arxiv.org/abs/1804.11060v1,NIPS,2018,,-1,2018-09-23
+Generalized Zero-Shot Learning with Deep Calibration Network,,NIPS,2018,,-1,2018-09-23
+SplineNets: Continuous Neural Decision Graphs,,NIPS,2018,,-1,2018-09-23
+Deep Attentive Tracking via Reciprocative Learning,,NIPS,2018,,-1,2018-09-23
+Random Feature Stein Discrepancies,http://arxiv.org/abs/1806.07788v1,NIPS,2018,,-1,2018-09-23
+3D-Aware Scene Manipulation via Inverse Graphics,http://arxiv.org/abs/1808.09351v2,NIPS,2018,,-1,2018-09-23
+High Dimensional Linear Regression using Lattice Basis Reduction,http://arxiv.org/abs/1803.06716v1,NIPS,2018,,-1,2018-09-23
+Collaborative Learning for Deep Neural Networks,http://arxiv.org/abs/1805.11761v1,NIPS,2018,,-1,2018-09-23
+Simple random search of static linear policies is competitive for reinforcement learning,,NIPS,2018,,-1,2018-09-23
+Temporal Regularization for Markov Decision Process,,NIPS,2018,,-1,2018-09-23
+Enhancing the Accuracy and Fairness of Human Decision Making,http://arxiv.org/abs/1805.10318v1,NIPS,2018,,-1,2018-09-23
+Fighting Boredom in Recommender Systems with Linear Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+Genetic-Gated Networks for Deep Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+Distilled Wasserstein Learning for Word Embedding and Topic Modeling,http://arxiv.org/abs/1809.04705v1,NIPS,2018,,-1,2018-09-23
+Video Prediction via Selective Sampling,,NIPS,2018,,-1,2018-09-23
+DifNet: Semantic Segmentation by Diffusion Networks,,NIPS,2018,,-1,2018-09-23
+Accelerated Stochastic Matrix Inversion:  General Theory and  Speeding up BFGS Rules for Faster Second-Order Optimization,,NIPS,2018,,-1,2018-09-23
+Learning Versatile Filters for Efficient Convolutional Neural Networks,,NIPS,2018,,-1,2018-09-23
+Parsimonious Quantile Regression of Asymmetrically Heavy-tailed Financial Return Series,,NIPS,2018,,-1,2018-09-23
+Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation,,NIPS,2018,,-1,2018-09-23
+Stochastic Composite Mirror Descent: Optimal Bounds with High Probabilities,,NIPS,2018,,-1,2018-09-23
+A loss framework for calibrated anomaly detection,,NIPS,2018,,-1,2018-09-23
+Designing by Training: Acceleration Neural Network for Fast High-Dimensional Convolution,,NIPS,2018,,-1,2018-09-23
+Generalizing Tree Probability Estimation via Bayesian Networks,http://arxiv.org/abs/1805.07834v1,NIPS,2018,,-1,2018-09-23
+On Oracle-Efficient PAC RL with Rich Observations,,NIPS,2018,,-1,2018-09-23
+Geometry Based Data Generation,,NIPS,2018,,-1,2018-09-23
+Joint Active Feature Acquisition and Classification with Variable-Size Set Encoding,,NIPS,2018,,-1,2018-09-23
+FRAGE: Frequency-Agnostic Word Representation,,NIPS,2018,,-1,2018-09-23
+Gradient Sparsification for Communication-Efficient Distributed Optimization,,NIPS,2018,,-1,2018-09-23
+Fairness Behind a Veil of Ignorance: A Welfare Analysis for Automated Decision Making,,NIPS,2018,,-1,2018-09-23
+Unsupervised Learning of View-invariant Action Representations,http://arxiv.org/abs/1809.01844v1,NIPS,2018,,-1,2018-09-23
+Toddler-Inspired Visual Object Learning,,NIPS,2018,,-1,2018-09-23
+Efficient nonmyopic batch active search,,NIPS,2018,,-1,2018-09-23
+$\ell_1$-regression with Heavy-tailed Distributions,http://arxiv.org/abs/1805.00616v3,NIPS,2018,,-1,2018-09-23
+Domain-Invariant Projection Learning for Zero-Shot Recognition,,NIPS,2018,,-1,2018-09-23
+Low-shot Learning via Covariance-Preserving Adversarial Augmentation Network,,NIPS,2018,,-1,2018-09-23
+A flexible model for training action localization with varying levels of supervision,,NIPS,2018,,-1,2018-09-23
+Posterior Concentration for Sparse Deep Learning,http://arxiv.org/abs/1803.09138v1,NIPS,2018,,-1,2018-09-23
+DropMax: Adaptive Variational Softmax,http://arxiv.org/abs/1712.07834v4,NIPS,2018,,-1,2018-09-23
+Uncertainty-Aware Attention for Reliable Interpretation and Prediction,http://arxiv.org/abs/1805.09653v1,NIPS,2018,,-1,2018-09-23
+Large Margin Deep Networks for Classification,http://arxiv.org/abs/1803.05598v1,NIPS,2018,,-1,2018-09-23
+Greedy Hash: Towards Fast Optimization for Accurate Hash Coding in CNN,,NIPS,2018,,-1,2018-09-23
+Long short-term memory and Learning-to-learn in networks of spiking neurons,,NIPS,2018,,-1,2018-09-23
+FishNet: the Beauty of Feature Preservation and Refinement,,NIPS,2018,,-1,2018-09-23
+TADAM: Task dependent adaptive metric for improved few-shot learning,http://arxiv.org/abs/1805.10123v2,NIPS,2018,,-1,2018-09-23
+Are GANs Created Equal? A Large-Scale Study,http://arxiv.org/abs/1711.10337v3,NIPS,2018,,-1,2018-09-23
+Dialog-based Interactive Image Retrieval,http://arxiv.org/abs/1805.00145v1,NIPS,2018,,-1,2018-09-23
+A Neural Compositional Paradigm for Image Captioning,,NIPS,2018,,-1,2018-09-23
+Are ResNets Provably Better than Linear Predictors?,http://arxiv.org/abs/1804.06739v3,NIPS,2018,,-1,2018-09-23
+Training DNNs with Hybrid Block Floating Point,http://arxiv.org/abs/1804.01526v3,NIPS,2018,,-1,2018-09-23
+Implicit Reparameterization Gradients,http://arxiv.org/abs/1805.08498v2,NIPS,2018,,-1,2018-09-23
+On Misinformation Containment in Online Social Networks,http://arxiv.org/abs/1809.06486v2,NIPS,2018,,-1,2018-09-23
+Probabilistic Pose Graph Optimization via Bingham Distributions and Tempered Geodesic MCMC,,NIPS,2018,,-1,2018-09-23
+Snap ML: A Hierarchical Framework for Machine Learning,http://arxiv.org/abs/1803.06333v2,NIPS,2018,,-1,2018-09-23
+PAC-learning in the presence of adversaries,,NIPS,2018,,-1,2018-09-23
+Cooperative Holistic 3D Scene Understanding from a Single RGB Image,,NIPS,2018,,-1,2018-09-23
+Fast Similarity Search via Optimal Sparse Lifting,,NIPS,2018,,-1,2018-09-23
+Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution,,NIPS,2018,,-1,2018-09-23
+Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning,,NIPS,2018,,-1,2018-09-23
+IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis,,NIPS,2018,,-1,2018-09-23
+Efficient Algorithms for Non-convex Isotonic Regression through Submodular Optimization,,NIPS,2018,,-1,2018-09-23
+Regret Bounds for Online Portfolio Selection with a Cardinality Constraint,,NIPS,2018,,-1,2018-09-23
+Fast deep reinforcement learning using online adjustments from the past,,NIPS,2018,,-1,2018-09-23
+Diversity-Driven Exploration Strategy for Deep Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+Learning To Learn Around A Common Mean,,NIPS,2018,,-1,2018-09-23
+Coupled Variational Bayes via Optimization Embedding,,NIPS,2018,,-1,2018-09-23
+The Importance of Sampling inMeta-Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+Beyond Grids: Learning Graph Representations for Visual Recognition,,NIPS,2018,,-1,2018-09-23
+PAC-Bayes bounds for stable algorithms with instance-dependent priors,http://arxiv.org/abs/1806.06827v2,NIPS,2018,,-1,2018-09-23
+Wavelet regression and additive models for irregularly spaced data,,NIPS,2018,,-1,2018-09-23
+Uniform Convergence of Gradients for Non-Convex Learning and Optimization,,NIPS,2018,,-1,2018-09-23
+Learning Plannable Representations with Causal InfoGAN,http://arxiv.org/abs/1807.09341v1,NIPS,2018,,-1,2018-09-23
+"Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects",http://arxiv.org/abs/1806.01794v1,NIPS,2018,,-1,2018-09-23
+The promises and pitfalls of Stochastic Gradient Langevin Dynamics,,NIPS,2018,,-1,2018-09-23
+Efficient Anomaly Detection via Matrix Sketching,,NIPS,2018,,-1,2018-09-23
+Stochastic Expectation Maximization with Variance Reduction,,NIPS,2018,,-1,2018-09-23
+Learning Loop Invariants for Program Verification,,NIPS,2018,,-1,2018-09-23
+Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples,,NIPS,2018,,-1,2018-09-23
+Plug-in Estimation in High-Dimensional Linear Inverse Problems: A Rigorous Analysis,,NIPS,2018,,-1,2018-09-23
+How to tell when a clustering is (approximately) correct using convex relaxations,,NIPS,2018,,-1,2018-09-23
+Bayesian Model-Agnostic Meta-Learning,,NIPS,2018,,-1,2018-09-23
+Chaining Mutual Information and Tightening Generalization Bounds,http://arxiv.org/abs/1806.03803v1,NIPS,2018,,-1,2018-09-23
+Model-Agnostic Private Learning,,NIPS,2018,,-1,2018-09-23
+Causal Inference with Noisy and Missing Covariates via Matrix Factorization,,NIPS,2018,,-1,2018-09-23
+Provable Gaussian Embedding with One Observation,,NIPS,2018,,-1,2018-09-23
+Proximal SCOPE for Distributed Sparse Learning,,NIPS,2018,,-1,2018-09-23
+Exponentially Weighted Imitation Learning for Batched Historical Data,,NIPS,2018,,-1,2018-09-23
+Dimensionally Tight Bounds for Second-Order Hamiltonian Monte Carlo,http://arxiv.org/abs/1802.08898v5,NIPS,2018,,-1,2018-09-23
+Automating Bayesian optimization with Bayesian optimization,,NIPS,2018,,-1,2018-09-23
+A Bayes-Sard Cubature Method,http://arxiv.org/abs/1804.03016v3,NIPS,2018,,-1,2018-09-23
+Mental Sampling in Multimodal Representations,http://arxiv.org/abs/1710.05219v1,NIPS,2018,,-1,2018-09-23
+Critical initialisation for deep signal propagation in noisy rectifier neural networks,,NIPS,2018,,-1,2018-09-23
+Contextual Pricing for Lipschitz Buyers,,NIPS,2018,,-1,2018-09-23
+Community Exploration: From Offline Optimization to Online Learning,,NIPS,2018,,-1,2018-09-23
+Horizon-Independent Minimax Linear Regression,,NIPS,2018,,-1,2018-09-23
+Multi-armed Bandits with Compensation,,NIPS,2018,,-1,2018-09-23
+LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning,,NIPS,2018,,-1,2018-09-23
+A Smoother Way to Train Structured Prediction Models,,NIPS,2018,,-1,2018-09-23
+Boolean Decision Rules via Column Generation,http://arxiv.org/abs/1805.09901v1,NIPS,2018,,-1,2018-09-23
+Spectral Filtering for General Linear Dynamical Systems,http://arxiv.org/abs/1802.03981v1,NIPS,2018,,-1,2018-09-23
+Third-order Smoothness Helps: Faster Stochastic Optimization Algorithms for Finding Local Minima,,NIPS,2018,,-1,2018-09-23
+Amortized Inference Regularization,http://arxiv.org/abs/1805.08913v1,NIPS,2018,,-1,2018-09-23
+Bilevel Distance Metric Learning for Robust Image Recognition,,NIPS,2018,,-1,2018-09-23
+Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator,,NIPS,2018,,-1,2018-09-23
+Direct Runge-Kutta Discretization Achieves Acceleration,http://arxiv.org/abs/1805.00521v4,NIPS,2018,,-1,2018-09-23
+Leveraging the Exact Likelihood of Deep Latent Variable Models,http://arxiv.org/abs/1802.04826v4,NIPS,2018,,-1,2018-09-23
+Lipschitz regularity of deep neural networks: analysis and efficient estimation,,NIPS,2018,,-1,2018-09-23
+Towards Understanding Acceleration Tradeoff between Momentum and Asynchrony in Nonconvex Stochastic Optimization,,NIPS,2018,,-1,2018-09-23
+Communication Efficient Parallel Algorithms for Optimization on Manifolds,,NIPS,2018,,-1,2018-09-23
+Contextual Combinatorial Multi-armed Bandits with Volatile Arms and Submodular Reward,,NIPS,2018,,-1,2018-09-23
+Continuous-time Value Function Approximation in Reproducing Kernel Hilbert Spaces,,NIPS,2018,,-1,2018-09-23
+Unsupervised Learning of Shape and Pose with Differentiable Point Clouds,,NIPS,2018,,-1,2018-09-23
+A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication,,NIPS,2018,,-1,2018-09-23
+Query Complexity of Bayesian Private Learning,,NIPS,2018,,-1,2018-09-23
+"Overlapping Clustering, and One (class) SVM to Bind Them All",,NIPS,2018,,-1,2018-09-23
+Sequential Context Encoding for Duplicate Removal,,NIPS,2018,,-1,2018-09-23
+Entropy and mutual information in models of deep neural networks,http://arxiv.org/abs/1805.09785v1,NIPS,2018,,-1,2018-09-23
+Learning to Exploit Stability for 3D Scene Parsing,,NIPS,2018,,-1,2018-09-23
+Neighbourhood Consensus Networks,,NIPS,2018,,-1,2018-09-23
+Understanding the Role of Adaptivity in Machine Teaching: The Case of Version Space Learners,,NIPS,2018,,-1,2018-09-23
+Where Do You Think You're Going?: Inferring Beliefs about Dynamics from Behavior,,NIPS,2018,,-1,2018-09-23
+Adaptive Online Learning in Dynamic Environments,,NIPS,2018,,-1,2018-09-23
+New Insight into Hybrid Stochastic Gradient Descent: Beyond With-Replacement Sampling and Convexity,,NIPS,2018,,-1,2018-09-23
+Frequency-Domain Dynamic Pruning for Convolutional Neural Networks,,NIPS,2018,,-1,2018-09-23
+Removing the Feature Correlation Effect of Multiplicative Noise,http://arxiv.org/abs/1809.07023v1,NIPS,2018,,-1,2018-09-23
+Self-Supervised Generation of Spatial Audio for 360-degree Video,,NIPS,2018,,-1,2018-09-23
+Learning Pipelines with Limited Data and Domain Knowledge: A Study in Parsing Physics Problems,,NIPS,2018,,-1,2018-09-23
+An Off-policy Policy Gradient Theorem Using Emphatic Weightings,,NIPS,2018,,-1,2018-09-23
+Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language,,NIPS,2018,,-1,2018-09-23
+Monte-Carlo Tree Search for Constrained POMDPs,,NIPS,2018,,-1,2018-09-23
+GILBO: One Metric to Measure Them All,,NIPS,2018,,-1,2018-09-23
+Efficient Gradient Computation for Structured Output Learning with Rational and Tropical Losses,,NIPS,2018,,-1,2018-09-23
+Unsupervised Learning of Artistic Styles with Archetypal Style Analysis,http://arxiv.org/abs/1805.11155v1,NIPS,2018,,-1,2018-09-23
+SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient,,NIPS,2018,,-1,2018-09-23
+The Convergence of Sparsified Gradient Methods,,NIPS,2018,,-1,2018-09-23
+Differential Properties of Sinkhorn Approximation for Learning with Wasserstein Distance,,NIPS,2018,,-1,2018-09-23
+Scalable Robust Matrix Factorization with Nonconvex Loss,http://arxiv.org/abs/1710.07205v4,NIPS,2018,,-1,2018-09-23
+Lifelong Inverse Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+Flexible and accurate inference and learning for deep generative models,http://arxiv.org/abs/1805.11051v1,NIPS,2018,,-1,2018-09-23
+A Bandit Approach to Sequential Experimental Design with False Discovery Control,,NIPS,2018,,-1,2018-09-23
+Moonshine: Distilling with Cheap Convolutions,http://arxiv.org/abs/1711.02613v2,NIPS,2018,,-1,2018-09-23
+Smoothed analysis of the low-rank approach for smooth semidefinite programs,,NIPS,2018,,-1,2018-09-23
+Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search,,NIPS,2018,,-1,2018-09-23
+HOGWILD!-Gibbs can be PanAccurate,,NIPS,2018,,-1,2018-09-23
+Doubly Robust Bayesian Inference for Non-Stationary Streaming Data with $\beta$-Divergences,,NIPS,2018,,-1,2018-09-23
+Generalized Inverse Optimization through Online Learning,,NIPS,2018,,-1,2018-09-23
+Supervised autoencoders: Improving generalization performance with unsupervised regularizers,,NIPS,2018,,-1,2018-09-23
+Visual Object Networks: Image Generation with Disentangled 3D Representations,,NIPS,2018,,-1,2018-09-23
+Understanding Weight Normalized Deep Neural Networks with Rectified Linear Units,,NIPS,2018,,-1,2018-09-23
+Learning long-range spatial dependencies with horizontal gated recurrent units,,NIPS,2018,,-1,2018-09-23
+Learning Deep Disentangled Embeddings With the F-Statistic Loss,,NIPS,2018,,-1,2018-09-23
+Geometrically Coupled Monte Carlo Sampling,,NIPS,2018,,-1,2018-09-23
+An Efficient Pruning Algorithm for Robust Isotonic Regression,,NIPS,2018,,-1,2018-09-23
+Sparse DNNs with Improved Adversarial Robustness,,NIPS,2018,,-1,2018-09-23
+See and Think: Disentangling Semantic Scene Completion,,NIPS,2018,,-1,2018-09-23
+Chain of Reasoning for Visual Question Answering,,NIPS,2018,,-1,2018-09-23
+Sigsoftmax: Reanalysis of the Softmax Bottleneck,http://arxiv.org/abs/1805.10829v1,NIPS,2018,,-1,2018-09-23
+MetaAnchor: Learning to Detect Objects with Customized Anchors,http://arxiv.org/abs/1807.00980v1,NIPS,2018,,-1,2018-09-23
+Image Inpainting via Generative Multi-column Convolutional Neural Networks,,NIPS,2018,,-1,2018-09-23
+A^2-Nets: Double Attention Networks,,NIPS,2018,,-1,2018-09-23
+How Many Samples are Needed to Learn a Convolutional Neural Network?,http://arxiv.org/abs/1805.07883v1,NIPS,2018,,-1,2018-09-23
+Algorithmic Regularization in Learning Deep Homogeneous Models: Layers are Automatically Balanced,,NIPS,2018,,-1,2018-09-23
+Optimization for Approximate Submodularity,,NIPS,2018,,-1,2018-09-23
+(Probably) Concave Graph Matching,http://arxiv.org/abs/1807.09722v1,NIPS,2018,,-1,2018-09-23
+Rest-Katyusha: Exploiting the Solution's Structure via Scheduled Restart Schemes,,NIPS,2018,,-1,2018-09-23
+A Model for Learned Bloom Filters and Optimizing by Sandwiching,,NIPS,2018,,-1,2018-09-23
+Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis,,NIPS,2018,,-1,2018-09-23
+Deep Functional Dictionaries: Learning Consistent Semantic Structures on 3D Models from Functions,,NIPS,2018,,-1,2018-09-23
+"Nonlocal Neural Networks, Nonlocal Diffusion and Nonlocal Modeling",http://arxiv.org/abs/1806.00681v1,NIPS,2018,,-1,2018-09-23
+Learning to Decompose and Disentangle Representations for Video Prediction,,NIPS,2018,,-1,2018-09-23
+Multi-Task Learning as Multi-Objective Optimization,,NIPS,2018,,-1,2018-09-23
+Self-Handicapping Network for Integral Object Attention,,NIPS,2018,,-1,2018-09-23
+LinkNet: Relational Embedding for Scene Graph,,NIPS,2018,,-1,2018-09-23
+Overfitting or perfect fitting? Risk bounds for classification and regression rules that interpolate,,NIPS,2018,,-1,2018-09-23
+Non-monotone Submodular Maximization in Exponentially Fewer Iterations,http://arxiv.org/abs/1807.11462v1,NIPS,2018,,-1,2018-09-23
+MetaGAN: An Adversarial Approach to Few-Shot Learning,,NIPS,2018,,-1,2018-09-23
+Modular Networks: Learning to Decompose Neural Computation,,NIPS,2018,,-1,2018-09-23
+Recurrent World Models Facilitate Policy Evolution,http://arxiv.org/abs/1809.01999v1,NIPS,2018,,-1,2018-09-23
+Ridge Regression and Provable Deterministic Ridge Leverage Score Sampling,,NIPS,2018,,-1,2018-09-23
+Wasserstein Variational Inference,http://arxiv.org/abs/1805.11284v2,NIPS,2018,,-1,2018-09-23
+"How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift)",,NIPS,2018,,-1,2018-09-23
+Leveraged volume sampling for linear regression,http://arxiv.org/abs/1802.06749v3,NIPS,2018,,-1,2018-09-23
+Tree-to-tree Neural Networks for Program Translation,http://arxiv.org/abs/1802.03691v1,NIPS,2018,,-1,2018-09-23
+Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog,,NIPS,2018,,-1,2018-09-23
+Contextual bandits with surrogate losses: Margin bounds and efficient algorithms,,NIPS,2018,,-1,2018-09-23
+Representation Balancing MDPs for Off-policy Policy Evaluation,,NIPS,2018,,-1,2018-09-23
+Causal Inference on Discrete Data using Hidden Compact Representation,,NIPS,2018,,-1,2018-09-23
+Natasha 2: Faster Non-Convex Optimization Than SGD,http://arxiv.org/abs/1708.08694v4,NIPS,2018,,-1,2018-09-23
+Provable Variational Inference for Constrained Log-Submodular Models,,NIPS,2018,,-1,2018-09-23
+Safe Active Learning for Time-Series Modeling with Gaussian Processes,,NIPS,2018,,-1,2018-09-23
+Computing Higher Order Derivatives of Matrix and Tensor Expressions,,NIPS,2018,,-1,2018-09-23
+Demystifying excessively volatile human learning: A Bayesian persistent prior and a neural approximation,,NIPS,2018,,-1,2018-09-23
+Solving Non-smooth Constrained Programs with Lower Complexity than $\mathcal{O}(1/\varepsilon)$: A Primal-Dual Homotopy Smoothing Approach,,NIPS,2018,,-1,2018-09-23
+Heterogeneous Bitwidth Binarization in Convolutional Neural Networks,http://arxiv.org/abs/1805.10368v1,NIPS,2018,,-1,2018-09-23
+Unsupervised Learning of Object Landmarks through Conditional Image Generation,,NIPS,2018,,-1,2018-09-23
+The streaming rollout of deep networks - towards fully model-parallel execution,,NIPS,2018,,-1,2018-09-23
+KONG: Kernels for ordered-neighborhood graphs,,NIPS,2018,,-1,2018-09-23
+GumBolt: Extending Gumbel trick to Boltzmann priors,http://arxiv.org/abs/1805.07349v1,NIPS,2018,,-1,2018-09-23
+Neural Networks Trained to Solve Differential Equations Learn General Representations,,NIPS,2018,,-1,2018-09-23
+Beauty-in-averageness and its contextual modulations: A Bayesian statistical account,,NIPS,2018,,-1,2018-09-23
+Distributed Weight Consolidation: A Brain Segmentation Case Study,http://arxiv.org/abs/1805.10863v2,NIPS,2018,,-1,2018-09-23
+Efficient Projection onto the Perfect Phylogeny Model,,NIPS,2018,,-1,2018-09-23
+TETRIS: TilE-matching the TRemendous Irregular Sparsity,,NIPS,2018,,-1,2018-09-23
+Cooperative neural networks (CoNN): Exploiting prior independence structure for improved classification,,NIPS,2018,,-1,2018-09-23
+Differentially Private Robust PCA,,NIPS,2018,,-1,2018-09-23
+Meta-Learning MCMC Proposals,,NIPS,2018,,-1,2018-09-23
+An Information-Theoretic Analysis of Thompson Sampling for Large Action Spaces,,NIPS,2018,,-1,2018-09-23
+The Price of Privacy for Low-rank Factorization,,NIPS,2018,,-1,2018-09-23
+Differentially Private Uniformly Most Powerful Tests for Binomial Data,http://arxiv.org/abs/1805.09236v1,NIPS,2018,,-1,2018-09-23
+Scalable Coordinated Exploration in Concurrent Reinforcement Learning,http://arxiv.org/abs/1805.08948v1,NIPS,2018,,-1,2018-09-23
+Integrated accounts of behavioral and neuroimaging data using flexible recurrent neural network models,,NIPS,2018,,-1,2018-09-23
+"BML: A High-performance, Low-cost Gradient Synchronization Algorithm for DML Training",,NIPS,2018,,-1,2018-09-23
+Inexact trust-region algorithm on Riemannian manifolds,,NIPS,2018,,-1,2018-09-23
+Can We Gain More from Orthogonality Regularizations in Training Deep Networks?,,NIPS,2018,,-1,2018-09-23
+Binary Rating Estimation with Graph Side Information,,NIPS,2018,,-1,2018-09-23
+Differentially Private Contextual Linear Bandits,,NIPS,2018,,-1,2018-09-23
+"Submodular Field Grammars: Representation, Inference, and Application to Image Parsing",,NIPS,2018,,-1,2018-09-23
+A Bridging Framework for Model Optimization and Deep Propagation,,NIPS,2018,,-1,2018-09-23
+Completing State Representations using Spectral Learning,,NIPS,2018,,-1,2018-09-23
+Optimization of Smooth Functions with Noisy Observations: Local Minimax Rates,,NIPS,2018,,-1,2018-09-23
+Adding One Neuron Can Eliminate All Bad Local Minima,http://arxiv.org/abs/1805.08671v1,NIPS,2018,,-1,2018-09-23
+Mean-field theory of graph neural networks in graph partitioning,,NIPS,2018,,-1,2018-09-23
+The Physical Systems Behind Optimization Algorithms,http://arxiv.org/abs/1612.02803v4,NIPS,2018,,-1,2018-09-23
+Top-k lists: Models and Algorithms,,NIPS,2018,,-1,2018-09-23
+Limited Memory Kelley's Method Converges for Composite Convex and Submodular Objectives,,NIPS,2018,,-1,2018-09-23
+Semi-Supervised Learning with Declaratively Specified Entropy Constraints,,NIPS,2018,,-1,2018-09-23
+End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems,,NIPS,2018,,-1,2018-09-23
+Sparsified SGD with Memory,http://arxiv.org/abs/1809.07599v1,NIPS,2018,,-1,2018-09-23
+Exponentiated Strongly Rayleigh Distributions,,NIPS,2018,,-1,2018-09-23
+Importance Weighting and Varational Inference,,NIPS,2018,,-1,2018-09-23
+Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis,,NIPS,2018,,-1,2018-09-23
+MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare,,NIPS,2018,,-1,2018-09-23
+Adaptive Sampling Towards Fast Graph Representation Learning,http://arxiv.org/abs/1809.05343v1,NIPS,2018,,-1,2018-09-23
+Hunting for Discriminatory Proxies in Linear Regression Models,,NIPS,2018,,-1,2018-09-23
+Towards Robust Detection of Adversarial Examples,http://arxiv.org/abs/1706.00633v3,NIPS,2018,,-1,2018-09-23
+Active Matting,,NIPS,2018,,-1,2018-09-23
+Learning filter widths of spectral decompositions with wavelets,,NIPS,2018,,-1,2018-09-23
+Optimal Byzantine-Resilient Stochastic Gradient Descent,,NIPS,2018,,-1,2018-09-23
+PG-TS: Improved Thompson Sampling for Logistic Contextual Bandits,http://arxiv.org/abs/1805.07458v1,NIPS,2018,,-1,2018-09-23
+On Learning Intrinsic Rewards for Policy Gradient Methods,http://arxiv.org/abs/1804.06459v2,NIPS,2018,,-1,2018-09-23
+Adversarial Text Generation via Feature-Mover's Distance,,NIPS,2018,,-1,2018-09-23
+Fast Rates of ERM and Stochastic Approximation: Adaptive to Error Bound Conditions,,NIPS,2018,,-1,2018-09-23
+Learning Bounds for Greedy Approximation with Multiple Explicit Feature Maps,,NIPS,2018,,-1,2018-09-23
+A Mathematical Model For Optimal Decisions In A Representative Democracy ,,NIPS,2018,,-1,2018-09-23
+Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making,,NIPS,2018,,-1,2018-09-23
+Fast greedy algorithms for dictionary selection with generalized sparsity constraints,,NIPS,2018,,-1,2018-09-23
+Data-Efficient Model-based Reinforcement Learning with Deep Probabilistic Dynamics Models,,NIPS,2018,,-1,2018-09-23
+Context-dependent upper-confidence bounds for directed exploration,,NIPS,2018,,-1,2018-09-23
+A Unified View of Piecewise Linear Neural Network Verification,http://arxiv.org/abs/1711.00455v3,NIPS,2018,,-1,2018-09-23
+Hierarchical Graph Representation Learning with Differentiable Pooling,http://arxiv.org/abs/1806.08804v2,NIPS,2018,,-1,2018-09-23
+Non-Ergodic Alternating Proximal  Augmented Lagrangian Algorithms with Optimal Rates,,NIPS,2018,,-1,2018-09-23
+Information-based Adaptive Stimulus Selection to Optimize Communication Efficiency in Brain-Computer Interfaces,,NIPS,2018,,-1,2018-09-23
+Porcupine Neural Networks: Approximating Neural Network Landscapes,,NIPS,2018,,-1,2018-09-23
+Fairness Through Computationally-Bounded Awareness,http://arxiv.org/abs/1803.03239v1,NIPS,2018,,-1,2018-09-23
+Adaptive Negative Curvature Descent with Applications in Non-convex Optimization,,NIPS,2018,,-1,2018-09-23
+Is Q-Learning Provably Efficient?,,NIPS,2018,,-1,2018-09-23
+"Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections",,NIPS,2018,,-1,2018-09-23
+Measures of distortion for machine learning,,NIPS,2018,,-1,2018-09-23
+On the Local Minima of the Empirical Risk,,NIPS,2018,,-1,2018-09-23
+Bandit Learning with Positive Externalities,http://arxiv.org/abs/1802.05693v3,NIPS,2018,,-1,2018-09-23
+Learning Confidence Sets using Support Vector Machines,,NIPS,2018,,-1,2018-09-23
+Efficient Neural Network Robustness Certification with General Activation Functions,,NIPS,2018,,-1,2018-09-23
+Hessian-based Analysis of Large Batch Training and Robustness to Adversaries,,NIPS,2018,,-1,2018-09-23
+Neural Edit Operations for Biological Sequences,,NIPS,2018,,-1,2018-09-23
+Objective and efficient inference for couplings in neuronal networks,http://arxiv.org/abs/1805.07061v1,NIPS,2018,,-1,2018-09-23
+Learning from Group Comparisons: Exploiting Higher Order Interactions,,NIPS,2018,,-1,2018-09-23
+Nonparametric Bayesian Lomax delegate racing for survival analysis with competing risks,,NIPS,2018,,-1,2018-09-23
+Adversarially Robust Generalization Requires More Data ,,NIPS,2018,,-1,2018-09-23
+Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents,,NIPS,2018,,-1,2018-09-23
+Practical exact algorithm for trembling-hand equilibrium refinements in games,,NIPS,2018,,-1,2018-09-23
+Power-law efficient neural codes provide general link between perceptual bias and discriminability,,NIPS,2018,,-1,2018-09-23
+Active Geometry-Aware Visual Recognition in Cluttered Scenes,,NIPS,2018,,-1,2018-09-23
+Unsupervised Adversarial Invariance,,NIPS,2018,,-1,2018-09-23
+Content preserving text generation with attribute controls,,NIPS,2018,,-1,2018-09-23
+GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training,,NIPS,2018,,-1,2018-09-23
+Multi-agent Online Learning with Asynchronous Feedback Loss,,NIPS,2018,,-1,2018-09-23
+Scalable methods for 8-bit training of neural networks,,NIPS,2018,,-1,2018-09-23
+Dropping Symmetry for Fast Symmetric Nonnegative Matrix Factorization,,NIPS,2018,,-1,2018-09-23
+Why so gloomy? A Bayesian explanation of human pessimism bias in the multi-armed bandit task,,NIPS,2018,,-1,2018-09-23
+Near-Optimal Time and Sample Complexities for Solving Markov Decision Processes with a Generative Model,,NIPS,2018,,-1,2018-09-23
+ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions,,NIPS,2018,,-1,2018-09-23
+Causal Inference and Mechanism Clustering of a Mixture of Additive Noise Models,,NIPS,2018,,-1,2018-09-23
+Contour location via entropy reduction leveraging multiple information sources,,NIPS,2018,,-1,2018-09-23
+Multiple-Step Greedy Policies in Approximate and Online Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+A Convex Duality Framework for GANs,,NIPS,2018,,-1,2018-09-23
+Exploiting Numerical Sparsity for Efficient Learning : Faster Eigenvector Computation and Regression,,NIPS,2018,,-1,2018-09-23
+Experimental Design for Cost-Aware Learning of Causal Graphs,,NIPS,2018,,-1,2018-09-23
+Task-Driven Convolutional Recurrent Models of the Visual System,http://arxiv.org/abs/1807.00053v1,NIPS,2018,,-1,2018-09-23
+Sample Efficient Stochastic Gradient Iterative Hard Thresholding Method for Stochastic Sparse Linear Regression with Limited Attribute Observation,,NIPS,2018,,-1,2018-09-23
+Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance,,NIPS,2018,,-1,2018-09-23
+Breaking the Curse of Horizon: Infinite-Horizon Off-policy Estimation,,NIPS,2018,,-1,2018-09-23
+Learning Task Specifications from Demonstrations,,NIPS,2018,,-1,2018-09-23
+Learning an olfactory topography from neural activity in piriform cortex,,NIPS,2018,,-1,2018-09-23
+Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization,,NIPS,2018,,-1,2018-09-23
+Dynamic Network Model from Partial Observations,http://arxiv.org/abs/1805.10616v2,NIPS,2018,,-1,2018-09-23
+Theoretical guarantees for EM under misspecified Gaussian mixture models,,NIPS,2018,,-1,2018-09-23
+Unsupervisedly Learned Latent Graphs as Transferable Representations,,NIPS,2018,,-1,2018-09-23
+A convex program for bilinear inversion of sparse vectors,http://arxiv.org/abs/1809.08359v1,NIPS,2018,,-1,2018-09-23
+Generalisation of structural knowledge in the Hippocampal-Entorhinal system,,NIPS,2018,,-1,2018-09-23
+Bandit Learning with Implicit Feedback,,NIPS,2018,,-1,2018-09-23
+Fully Understanding The Hashing Trick,,NIPS,2018,,-1,2018-09-23
+The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network,,NIPS,2018,,-1,2018-09-23
+Learning Concave Conditional Likelihood Models for Improved Analysis of Tandem Mass Spectra,,NIPS,2018,,-1,2018-09-23
+Differentially Private k-Means with Constant Multiplicative Error,http://arxiv.org/abs/1804.08001v2,NIPS,2018,,-1,2018-09-23
+Policy Optimization via Importance Sampling,http://arxiv.org/abs/1809.06098v1,NIPS,2018,,-1,2018-09-23
+Estimating Learnability in the Sublinear Data Regime,http://arxiv.org/abs/1805.01626v1,NIPS,2018,,-1,2018-09-23
+A Dual Framework for Low-rank Tensor Completion,,NIPS,2018,,-1,2018-09-23
+Low-rank Interaction with Sparse Additive Effects Model for Large Data Frames,,NIPS,2018,,-1,2018-09-23
+Inference Aided Reinforcement Learning for Incentive Mechanism Design in Crowdsourcing,,NIPS,2018,,-1,2018-09-23
+Middle-Out Decoding,,NIPS,2018,,-1,2018-09-23
+First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time,,NIPS,2018,,-1,2018-09-23
+A Simple Proximal Stochastic Gradient Method for Nonsmooth Nonconvex Optimization,,NIPS,2018,,-1,2018-09-23
+How Much Restricted Isometry is Needed In Nonconvex Matrix Recovery?,http://arxiv.org/abs/1805.10251v1,NIPS,2018,,-1,2018-09-23
+Impossibility of deducing preferences and rationality from human policy,http://arxiv.org/abs/1712.05812v4,NIPS,2018,,-1,2018-09-23
+Manifold Structured Prediction,http://arxiv.org/abs/1806.09908v1,NIPS,2018,,-1,2018-09-23
+Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity,,NIPS,2018,,-1,2018-09-23
+Learning Others' Intentional Models in Multi-Agent Settings Using Interactive POMDPs,,NIPS,2018,,-1,2018-09-23
+Online Improper Learning with an Approximation Oracle,http://arxiv.org/abs/1804.07837v1,NIPS,2018,,-1,2018-09-23
+Bandit Learning in Concave N-Person Games,,NIPS,2018,,-1,2018-09-23
+On Fast Leverage Score Sampling and Optimal Learning,,NIPS,2018,,-1,2018-09-23
+Unsupervised Video Object Segmentation for Deep Reinforcement Learning,http://arxiv.org/abs/1805.07780v1,NIPS,2018,,-1,2018-09-23
+Efficient inference for time-varying behavior during learning,,NIPS,2018,,-1,2018-09-23
+Learning convex polytopes with margin,http://arxiv.org/abs/1805.09719v1,NIPS,2018,,-1,2018-09-23
+Insights on representational similarity in neural networks with canonical correlation,,NIPS,2018,,-1,2018-09-23
+Variational Inference with Tail Adapted f-Divergence,,NIPS,2018,,-1,2018-09-23
+Adversarially Robust Optimization with Gaussian Processes,,NIPS,2018,,-1,2018-09-23
+Loss Functions for Multiset Prediction,http://arxiv.org/abs/1711.05246v1,NIPS,2018,,-1,2018-09-23
+Computing Kantorovich-Wasserstein Distances on $d$-dimensional histograms using $(d+1)$-partite graphs,,NIPS,2018,,-1,2018-09-23
+Neural Interaction Transparency (NIT): Disentangling Learned Interactions for Improved Interpretability,,NIPS,2018,,-1,2018-09-23
+Gamma-Poisson Dynamic Matrix Factorization Embedded with Metadata Influence,,NIPS,2018,,-1,2018-09-23
+Masking: A New Perspective of Noisy Supervision,http://arxiv.org/abs/1805.08193v1,NIPS,2018,,-1,2018-09-23
+Practical Deep Stereo (PDS): Toward applications-friendly deep stereo matching,,NIPS,2018,,-1,2018-09-23
+Dual Swap Disentangling,http://arxiv.org/abs/1805.10583v2,NIPS,2018,,-1,2018-09-23
+Diverse Ensemble Evolution: Curriculum based Data-Model Marriage,,NIPS,2018,,-1,2018-09-23
+Binary Classification from Positive-Confidence Data,http://arxiv.org/abs/1710.07138v2,NIPS,2018,,-1,2018-09-23
+Deep Generative Models for Distribution-Preserving Lossy Compression,http://arxiv.org/abs/1805.11057v1,NIPS,2018,,-1,2018-09-23
+Exact natural gradient in deep linear networks and its application to the nonlinear case,,NIPS,2018,,-1,2018-09-23
+Constructing Fast Network through Deconstruction of Convolution,http://arxiv.org/abs/1806.07370v3,NIPS,2018,,-1,2018-09-23
+Memory Replay GANs: Learning to Generate New Categories without Forgetting,,NIPS,2018,,-1,2018-09-23
+Sequential Test for the Lowest Mean: From Thompson to Murphy Sampling,http://arxiv.org/abs/1806.00973v1,NIPS,2018,,-1,2018-09-23
+Distributed Learning without Distress: Privacy-Preserving Empirical Risk Minimization,,NIPS,2018,,-1,2018-09-23
+A no-regret generalization of hierarchical softmax to extreme multi-label classification,,NIPS,2018,,-1,2018-09-23
+Efficient Formal Safety Analysis of Neural Networks,http://arxiv.org/abs/1809.08098v1,NIPS,2018,,-1,2018-09-23
+Bayesian Distributed Stochastic Gradient Descent,,NIPS,2018,,-1,2018-09-23
+The Limits of Post-Selection Generalization,,NIPS,2018,,-1,2018-09-23
+Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation,,NIPS,2018,,-1,2018-09-23
+On Controllable Sparse Alternatives to Softmax,,NIPS,2018,,-1,2018-09-23
+Learning Latent Subspaces in Variational Autoencoders,,NIPS,2018,,-1,2018-09-23
+Turbo Learning for Captionbot and Drawingbot,http://arxiv.org/abs/1805.08170v1,NIPS,2018,,-1,2018-09-23
+Learning to Teach with Dynamic Loss Functions,,NIPS,2018,,-1,2018-09-23
+Size-Noise Tradeoffs in Generative Networks,,NIPS,2018,,-1,2018-09-23
+"Online Adaptive Methods, Universality and Acceleration",http://arxiv.org/abs/1809.02864v1,NIPS,2018,,-1,2018-09-23
+Compact Generalized Non-local Network,,NIPS,2018,,-1,2018-09-23
+On the Local Hessian in Back-propagation,,NIPS,2018,,-1,2018-09-23
+The Everlasting Database: Statistical Validity at a Fair Price,http://arxiv.org/abs/1803.04307v1,NIPS,2018,,-1,2018-09-23
+On Coresets for Logistic Regression,http://arxiv.org/abs/1805.08571v2,NIPS,2018,,-1,2018-09-23
+Approximating Real-Time Recurrent Learning with Random Kronecker Factors,http://arxiv.org/abs/1805.10842v1,NIPS,2018,,-1,2018-09-23
+Contamination Attacks in Multi-Party Machine Learning,,NIPS,2018,,-1,2018-09-23
+An Improved Analysis of Alternating Minimization for Structured Multi-Response Regression,,NIPS,2018,,-1,2018-09-23
+Incorporating Context into Language Encoding Models for fMRI,,NIPS,2018,,-1,2018-09-23
+Query K-means Clustering and the Double Dixie Cup Problem,http://arxiv.org/abs/1806.05938v1,NIPS,2018,,-1,2018-09-23
+Training Neural Networks Using Features Replay,http://arxiv.org/abs/1807.04511v1,NIPS,2018,,-1,2018-09-23
+Modeling Dynamic Missingness of Implicit Feedback for Recommendation,,NIPS,2018,,-1,2018-09-23
+Representation Learning of Compositional Data,,NIPS,2018,,-1,2018-09-23
+Model-based targeted dimensionality reduction for neuronal population data,,NIPS,2018,,-1,2018-09-23
+On gradient regularizers for MMD GANs,http://arxiv.org/abs/1805.11565v1,NIPS,2018,,-1,2018-09-23
+Heterogeneous Multi-output Gaussian Process Prediction,http://arxiv.org/abs/1805.07633v1,NIPS,2018,,-1,2018-09-23
+Policy Regret in Repeated Games,,NIPS,2018,,-1,2018-09-23
+A Theory-Based Evaluation of Nearest Neighbor Models Put Into Practice,,NIPS,2018,,-1,2018-09-23
+BRITS: Bidirectional Recurrent Imputation for Time Series,http://arxiv.org/abs/1805.10572v1,NIPS,2018,,-1,2018-09-23
+M-Walk: Learning to Walk in Graph  with Monte Carlo Tree Search,,NIPS,2018,,-1,2018-09-23
+Extracting Relationships by Multi-Domain Matching,,NIPS,2018,,-1,2018-09-23
+Diminishing Returns Shape Constraints for Interpretability and Regularization,,NIPS,2018,,-1,2018-09-23
+Scalable Hyperparameter Transfer Learning,,NIPS,2018,,-1,2018-09-23
+Stochastic Nonparametric Event-Tensor Decomposition,,NIPS,2018,,-1,2018-09-23
+Scaling Gaussian Process Regression with Derivatives,,NIPS,2018,,-1,2018-09-23
+Differentially Private Testing of Identity and Closeness of Discrete Distributions,,NIPS,2018,,-1,2018-09-23
+Efficient Convex Completion of Coupled Tensors using Coupled Nuclear Norms,,NIPS,2018,,-1,2018-09-23
+Maximizing Induced Cardinality Under a Determinantal Point Process,,NIPS,2018,,-1,2018-09-23
+rho-POMDPs have Lipschitz-Continuous epsilon-Optimal Value Functions,,NIPS,2018,,-1,2018-09-23
+Uncertainty Sampling is Preconditioned Stochastic Gradient Descent on Zero-One Loss,,NIPS,2018,,-1,2018-09-23
+A Probabilistic U-Net for Segmentation of Ambiguous Images,http://arxiv.org/abs/1806.05034v1,NIPS,2018,,-1,2018-09-23
+Unorganized Malicious Attacks Detection,http://arxiv.org/abs/1610.04086v3,NIPS,2018,,-1,2018-09-23
+Causal Inference via Kernel Deviance Measures,http://arxiv.org/abs/1804.04622v1,NIPS,2018,,-1,2018-09-23
+Bayesian Alignments of Warped Multi-Output Gaussian Processes,http://arxiv.org/abs/1710.02766v3,NIPS,2018,,-1,2018-09-23
+Hybrid Macro/Micro Level Backpropagation for Training Deep Spiking Neural Networks,,NIPS,2018,,-1,2018-09-23
+Gen-Oja: Simple & Efficient Algorithm for Streaming Generalized Eigenvector Computation,,NIPS,2018,,-1,2018-09-23
+Efficient online algorithms for fast-rate regret bounds under sparsity,http://arxiv.org/abs/1805.09174v1,NIPS,2018,,-1,2018-09-23
+Predictive Uncertainty Estimation via Prior Networks,http://arxiv.org/abs/1802.10501v2,NIPS,2018,,-1,2018-09-23
+Dual Policy Iteration,http://arxiv.org/abs/1805.10755v1,NIPS,2018,,-1,2018-09-23
+A probabilistic population code based on neural samples,,NIPS,2018,,-1,2018-09-23
+Manifold-tiling Localized Receptive Fields are Optimal in Similarity-preserving Neural Networks,,NIPS,2018,,-1,2018-09-23
+On the Convergence and Robustness of Training GANs with Regularized Optimal Transport,,NIPS,2018,,-1,2018-09-23
+Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders,,NIPS,2018,,-1,2018-09-23
+Provably Correct Automatic Sub-Differentiation for Qualified Programs,,NIPS,2018,,-1,2018-09-23
+"Deep Homogeneous Mixture Models: Representation, Separation, and Approximation",,NIPS,2018,,-1,2018-09-23
+"Parameters as interacting particles: asymptotic scaling, convexity, and error of neural networks",,NIPS,2018,,-1,2018-09-23
+Multitask Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies,,NIPS,2018,,-1,2018-09-23
+End-to-End Differentiable Physics for Learning and Control,,NIPS,2018,,-1,2018-09-23
+BRUNO: A Deep Recurrent Model for Exchangeable Data,http://arxiv.org/abs/1802.07535v2,NIPS,2018,,-1,2018-09-23
+Stimulus domain transfer in recurrent models for large scale cortical population prediction on video,,NIPS,2018,,-1,2018-09-23
+Distributed Multi-Player Bandits - a Game of Thrones Approach,,NIPS,2018,,-1,2018-09-23
+Efficient Loss-Based Decoding On Graphs For Extreme Classification,http://arxiv.org/abs/1803.03319v1,NIPS,2018,,-1,2018-09-23
+Implicit Probabilistic Integrators for ODEs,http://arxiv.org/abs/1805.07970v1,NIPS,2018,,-1,2018-09-23
+Learning Attentional Communication for Multi-Agent Cooperation,http://arxiv.org/abs/1805.07733v2,NIPS,2018,,-1,2018-09-23
+"Training Deep Models Faster with Robust, Approximate Importance Sampling",,NIPS,2018,,-1,2018-09-23
+Unsupervised Text Style Transfer using Language Models as Discriminators,http://arxiv.org/abs/1805.11749v2,NIPS,2018,,-1,2018-09-23
+Streaming~Kernel~PCA~with~$\tilde{O}(\sqrt{n})$~Random~Features,,NIPS,2018,,-1,2018-09-23
+Exploring Sparse Features in Deep Reinforcement Learning towards Fast Disease Diagnosis,,NIPS,2018,,-1,2018-09-23
+Disconnected Manifold Learning for Generative  Adversarial Networks,,NIPS,2018,,-1,2018-09-23
+Unsupervised Cross-Modal Alignment of Speech and Text Embedding Spaces,http://arxiv.org/abs/1805.07467v2,NIPS,2018,,-1,2018-09-23
+Learning Signed Determinantal Point Processes through the Principal Minor Assignment Problem,,NIPS,2018,,-1,2018-09-23
+Out-of-Distribution Detection using Multiple Semantic Label Representations,,NIPS,2018,,-1,2018-09-23
+Stochastic Chebyshev Gradient Descent for Spectral Optimization,http://arxiv.org/abs/1802.06355v2,NIPS,2018,,-1,2018-09-23
+"Revisiting $(\epsilon, \gamma, \tau)$-similarity learning for domain adaptation",,NIPS,2018,,-1,2018-09-23
+"Constant Regret, Generalized Mixability, and Mirror Descent",http://arxiv.org/abs/1802.06965v2,NIPS,2018,,-1,2018-09-23
+A Bayesian Approach to Generative Adversarial Imitation Learning,,NIPS,2018,,-1,2018-09-23
+Constrained Cross-Entropy Method for Safe Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+Multi-Agent Generative Adversarial Imitation Learning,http://arxiv.org/abs/1807.09936v1,NIPS,2018,,-1,2018-09-23
+Adaptive Learning with Unknown Information Flows,,NIPS,2018,,-1,2018-09-23
+Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks,,NIPS,2018,,-1,2018-09-23
+Generative modeling for protein structures,,NIPS,2018,,-1,2018-09-23
+Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo,,NIPS,2018,,-1,2018-09-23
+Knowledge Distillation by On-the-Fly Native Ensemble,http://arxiv.org/abs/1806.04606v2,NIPS,2018,,-1,2018-09-23
+Non-Adversarial Mapping with VAEs,,NIPS,2018,,-1,2018-09-23
+Towards Text Generation with Adversarially Learned Neural Outlines,,NIPS,2018,,-1,2018-09-23
+cpSGD: Communication-efficient and differentially-private distributed SGD,,NIPS,2018,,-1,2018-09-23
+Blackbox Matrix×Matrix Gaussian Process Inference,,NIPS,2018,,-1,2018-09-23
+Diffusion Maps for Textual Network Embedding,http://arxiv.org/abs/1805.09906v1,NIPS,2018,,-1,2018-09-23
+"Edward2: Simple, Dynamic, Accelerated",,NIPS,2018,,-1,2018-09-23
+VideoCapsuleNet: A Simplified Network for Action Detection,http://arxiv.org/abs/1805.08162v1,NIPS,2018,,-1,2018-09-23
+Rectangular Bounding Process,,NIPS,2018,,-1,2018-09-23
+Improved Algorithms for Collaborative PAC Learning,http://arxiv.org/abs/1805.08356v1,NIPS,2018,,-1,2018-09-23
+Sparse Attentive Backtracking: Temporal Credit Assignment Through Reminding,,NIPS,2018,,-1,2018-09-23
+Communication Compression for Decentralized Training,,NIPS,2018,,-1,2018-09-23
+Depth-Limited Solving for Imperfect-Information Games,,NIPS,2018,,-1,2018-09-23
+Training Deep Neural Networks with 8-bit Floating Point Numbers,,NIPS,2018,,-1,2018-09-23
+Scalar Posterior Sampling with Applications ,,NIPS,2018,,-1,2018-09-23
+Understanding Batch Normalization,http://arxiv.org/abs/1806.02375v3,NIPS,2018,,-1,2018-09-23
+On Neuronal Capacity,,NIPS,2018,,-1,2018-09-23
+Towards Robust Interpretability with Self-Explaining Neural Networks,http://arxiv.org/abs/1806.07538v1,NIPS,2018,,-1,2018-09-23
+Deep State Space Models for Time Series Forecasting,,NIPS,2018,,-1,2018-09-23
+Constrained Graph Variational Autoencoders for Molecule Design,http://arxiv.org/abs/1805.09076v1,NIPS,2018,,-1,2018-09-23
+Learning Libraries of Subroutines for Neurally–Guided Bayesian Program Learning,,NIPS,2018,,-1,2018-09-23
+Preference Based Adaptation for Learning Objectives,,NIPS,2018,,-1,2018-09-23
+Distributed $k$-Clustering for Data with Heavy Noise,,NIPS,2018,,-1,2018-09-23
+Beyond Log-concavity: Provable Guarantees for Sampling Multi-modal Distributions using Simulated Tempering Langevin Monte Carlo,,NIPS,2018,,-1,2018-09-23
+A General Method for Amortizing Variational Filtering,,NIPS,2018,,-1,2018-09-23
+A Reduction for Efficient LDA Topic Reconstruction,,NIPS,2018,,-1,2018-09-23
+Cluster Variational Approximations for Structure Learning of Continuous-Time Bayesian Networks from Incomplete Data,,NIPS,2018,,-1,2018-09-23
+RenderNet: A deep convolutional network for differentiable rendering from 3D shapes,,NIPS,2018,,-1,2018-09-23
+Robust Hypothesis Testing Using Wasserstein Uncertainty Sets,http://arxiv.org/abs/1805.10611v1,NIPS,2018,,-1,2018-09-23
+Robust Detection of Adversarial Attacks by Modeling the Intrinsic Properties of Deep Neural Networks,,NIPS,2018,,-1,2018-09-23
+Learning to Repair Software Vulnerabilities with Generative Adversarial Networks,,NIPS,2018,,-1,2018-09-23
+Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation,,NIPS,2018,,-1,2018-09-23
+Dirichlet belief networks as structured topic prior,,NIPS,2018,,-1,2018-09-23
+Submodular Maximization via Gradient Ascent: The Case of Deep Submodular   Functions,,NIPS,2018,,-1,2018-09-23
+The challenge of realistic music generation: modelling raw audio at scale,,NIPS,2018,,-1,2018-09-23
+Spectral Signatures in Backdoor Attacks on Deep Nets,,NIPS,2018,,-1,2018-09-23
+Reward learning from human preferences and demonstrations in Atari,,NIPS,2018,,-1,2018-09-23
+Pipe-SGD: A Decentralized Pipelined SGD Framework for Distributed Deep Net Training,,NIPS,2018,,-1,2018-09-23
+Improved Expressivity Through Dendritic Neural Networks,,NIPS,2018,,-1,2018-09-23
+How to Start Training: The Effect of Initialization and Architecture,http://arxiv.org/abs/1803.01719v2,NIPS,2018,,-1,2018-09-23
+Which Neural Net Architectures Give Rise to Exploding and Vanishing Gradients?,,NIPS,2018,,-1,2018-09-23
+HitNet: Hybrid Ternary Recurrent Neural Network,,NIPS,2018,,-1,2018-09-23
+A Unified Framework for Extensive-Form Game Abstraction with Bounds,,NIPS,2018,,-1,2018-09-23
+Maximum-Entropy Fine Grained Classification,,NIPS,2018,,-1,2018-09-23
+Quantifying Learning Guarantees for Convex but Inconsistent Surrogates,,NIPS,2018,,-1,2018-09-23
+Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator,,NIPS,2018,,-1,2018-09-23
+Learning Disentangled Joint Continuous and Discrete Representations,http://arxiv.org/abs/1804.00104v2,NIPS,2018,,-1,2018-09-23
+"Do Less, Get More: Streaming Submodular Maximization with Subsampling",http://arxiv.org/abs/1802.07098v1,NIPS,2018,,-1,2018-09-23
+Sparse Covariance Modeling in High Dimensions with Gaussian Processes,,NIPS,2018,,-1,2018-09-23
+ Image-to-image translation for cross-domain disentanglement,,NIPS,2018,,-1,2018-09-23
+Revisiting Multi-Task Learning with ROCK: a Deep Residual Auxiliary Block for Visual Detection,,NIPS,2018,,-1,2018-09-23
+Multitask Boosting for Survival Analysis with Competing Risks,,NIPS,2018,,-1,2018-09-23
+SLAYER: Spike Layer Error Reassignment in Time,,NIPS,2018,,-1,2018-09-23
+Variational Memory Encoder-Decoder,,NIPS,2018,,-1,2018-09-23
+Overcoming Language Priors in Visual Question Answering with Adversarial Regularization,,NIPS,2018,,-1,2018-09-23
+Hybrid Knowledge Routed Modules for Large-scale Object Detection,,NIPS,2018,,-1,2018-09-23
+Multi-Class Learning: From Theory to Algorithm,,NIPS,2018,,-1,2018-09-23
+Multivariate Time Series Imputation with Generative Adversarial Networks,,NIPS,2018,,-1,2018-09-23
+Conditional Adversarial Domain Adaptation,http://arxiv.org/abs/1705.10667v2,NIPS,2018,,-1,2018-09-23
+Relating Leverage Scores and Density using Regularized Christoffel Functions,,NIPS,2018,,-1,2018-09-23
+Non-Local Recurrent Network for Image Restoration,http://arxiv.org/abs/1806.02919v1,NIPS,2018,,-1,2018-09-23
+Bayesian Semi-supervised Learning with Graph Gaussian Processes,http://arxiv.org/abs/1809.04379v1,NIPS,2018,,-1,2018-09-23
+Foreground Clustering for Joint Segmentation and Localization in Videos and Images,,NIPS,2018,,-1,2018-09-23
+The Pessimistic Limits and Possibilities of Margin-based Losses in Semi-supervised Learning,,NIPS,2018,,-1,2018-09-23
+Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization,,NIPS,2018,,-1,2018-09-23
+Symbolic Graph Reasoning Meets Convolutions,,NIPS,2018,,-1,2018-09-23
+Partially-Supervised Image Captioning,,NIPS,2018,,-1,2018-09-23
+Distributed Stochastic Optimization via Adaptive SGD,,NIPS,2018,,-1,2018-09-23
+Precision and Recall for Time Series,,NIPS,2018,,-1,2018-09-23
+Virtual Class Enhanced Discriminative Embedding Learning,,NIPS,2018,,-1,2018-09-23
+Universal Growth in Production Economies,http://arxiv.org/abs/1802.07385v1,NIPS,2018,,-1,2018-09-23
+Bayesian Model Selection Approach to Boundary Detection with Non-Local Priors,,NIPS,2018,,-1,2018-09-23
+Efficient Stochastic Gradient Hard Thresholding,,NIPS,2018,,-1,2018-09-23
+Embedding Logical Queries on Knowledge Graphs,http://arxiv.org/abs/1806.01445v2,NIPS,2018,,-1,2018-09-23
+SEGA: Variance Reduction via Gradient Sketching,http://arxiv.org/abs/1809.03054v1,NIPS,2018,,-1,2018-09-23
+Automatic Program Synthesis of Long Programs with a Learned Garbage Collector,,NIPS,2018,,-1,2018-09-23
+Algorithmic Linearly Constrained Gaussian Processes,http://arxiv.org/abs/1801.09197v1,NIPS,2018,,-1,2018-09-23
+Norm matters: efficient and accurate normalization schemes in deep networks,,NIPS,2018,,-1,2018-09-23
+Mixture Matrix Completion,http://arxiv.org/abs/1808.00616v1,NIPS,2018,,-1,2018-09-23
+A Smoothed Analysis of the Greedy Algorithm for the Linear Contextual Bandit Problem,,NIPS,2018,,-1,2018-09-23
+Revisiting Decomposable Submodular Function Minimization with Incidence Relations,,NIPS,2018,,-1,2018-09-23
+A Practical Algorithm for Distributed Clustering and Outlier Detection,http://arxiv.org/abs/1805.09495v1,NIPS,2018,,-1,2018-09-23
+Learning to Reconstruct Shapes from Unseen Categories,,NIPS,2018,,-1,2018-09-23
+Gradient Descent Meets Shift-and-Invert Preconditioning for Eigenvector Computation,,NIPS,2018,,-1,2018-09-23
+Factored Bandits,http://arxiv.org/abs/1807.01488v1,NIPS,2018,,-1,2018-09-23
+Delta-encoder: an effective sample synthesis method for few-shot object recognition,,NIPS,2018,,-1,2018-09-23
+Learning a High Fidelity Pose Invariant Model for High-resolution Face Frontalization,,NIPS,2018,,-1,2018-09-23
+Stochastic Cubic Regularization for Fast Nonconvex Optimization,http://arxiv.org/abs/1711.02838v2,NIPS,2018,,-1,2018-09-23
+Adaptation to Easy Data in Prediction with Limited Advice,http://arxiv.org/abs/1807.00636v1,NIPS,2018,,-1,2018-09-23
+Differentially Private Bayesian Inference for Exponential Families,http://arxiv.org/abs/1809.02188v2,NIPS,2018,,-1,2018-09-23
+Norm-Ranging LSH for Maximum Inner Product Search,http://arxiv.org/abs/1809.08782v1,NIPS,2018,,-1,2018-09-23
+Fast Estimation of Causal Interactions using Wold Processes,http://arxiv.org/abs/1807.04595v1,NIPS,2018,,-1,2018-09-23
+When do random forests fail?,,NIPS,2018,,-1,2018-09-23
+Near Optimal Exploration-Exploitation in Non-Communicating Markov Decision Processes,,NIPS,2018,,-1,2018-09-23
+Practical Methods for Graph Two-Sample Testing,,NIPS,2018,,-1,2018-09-23
+NAIS-Net: Stable Deep Networks from Non-Autonomous  Differential Equations,,NIPS,2018,,-1,2018-09-23
+Weakly Supervised Dense Event Captioning in Videos,,NIPS,2018,,-1,2018-09-23
+From Stochastic Planning to Marginal MAP,,NIPS,2018,,-1,2018-09-23
+Near-Optimal Policies for Dynamic Multinomial Logit Assortment Selection Models,,NIPS,2018,,-1,2018-09-23
+The Nearest Neighbor Information Estimator is Adaptively Near Minimax Rate-Optimal,,NIPS,2018,,-1,2018-09-23
+Evidential Deep Learning to Quantify Classification Uncertainty,http://arxiv.org/abs/1806.01768v2,NIPS,2018,,-1,2018-09-23
+Parsimonious Bayesian deep networks,http://arxiv.org/abs/1805.08719v1,NIPS,2018,,-1,2018-09-23
+Single-Agent Policy Tree Search With Guarantees,,NIPS,2018,,-1,2018-09-23
+Semi-crowdsourced Clustering with Deep Generative Models,,NIPS,2018,,-1,2018-09-23
+"Deep, complex, invertible  networks for inversion of transmission effects in multimode optical fibres",,NIPS,2018,,-1,2018-09-23
+Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals,,NIPS,2018,,-1,2018-09-23
+Inequity aversion improves cooperation in intertemporal social dilemmas,,NIPS,2018,,-1,2018-09-23
+Learning Gaussian Processes by Minimizing PAC-Bayesian Generalization Bounds,,NIPS,2018,,-1,2018-09-23
+High-dimensional Bayesian optimization via collaborative filtering,,NIPS,2018,,-1,2018-09-23
+Stochastic Spectral and Conjugate Descent Methods,http://arxiv.org/abs/1802.03703v1,NIPS,2018,,-1,2018-09-23
+But How Does It Work in Theory? Linear SVM with Random Features,http://arxiv.org/abs/1809.04481v1,NIPS,2018,,-1,2018-09-23
+Boosting Black Box Variational Inference,http://arxiv.org/abs/1806.02185v3,NIPS,2018,,-1,2018-09-23
+Nearly tight sample complexity bounds for learning mixtures of Gaussians via sample compression schemes,,NIPS,2018,,-1,2018-09-23
+Actor-Critic Policy Optimization in PartiallyObservable Multiagent Environments,,NIPS,2018,,-1,2018-09-23
+Derivative Estimation in Random Design,,NIPS,2018,,-1,2018-09-23
+Zeroth-order (Non)-Convex Stochastic Optimization via Conditional Gradient and Gradient Updates,,NIPS,2018,,-1,2018-09-23
+Latent Gaussian Activity Propagation: Using Smoothness and Structure to Separate and Localize Sounds in Large Noisy Environments,,NIPS,2018,,-1,2018-09-23
+Hybrid-MST: A Hybrid Active Sampling Strategy for Pairwise Preference Aggregation,,NIPS,2018,,-1,2018-09-23
+Infinite-Horizon Gaussian Processes,,NIPS,2018,,-1,2018-09-23
+Dimensionality Reduction for Stationary Time Series via Stochastic Nonconvex Optimization,,NIPS,2018,,-1,2018-09-23
+Sequence-to-Segment Networks for Segment Detection,,NIPS,2018,,-1,2018-09-23
+Scaling the Poisson GLM to massive neural datasets through polynomial approximations,,NIPS,2018,,-1,2018-09-23
+Multiplicative Weights Updates with Constant Step-Size in Graphical Constant-Sum Games,,NIPS,2018,,-1,2018-09-23
+Why Is My Classifier Discriminatory?,,NIPS,2018,,-1,2018-09-23
+Learn What Not to Learn: Action Elimination with Deep Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+BinGAN: Learning Compact Binary Descriptors with a Regularized GAN,http://arxiv.org/abs/1806.06778v3,NIPS,2018,,-1,2018-09-23
+Modern Neural Networks Generalize on Small Data Sets,,NIPS,2018,,-1,2018-09-23
+Escaping Saddle Points in Constrained Optimization,http://arxiv.org/abs/1809.02162v1,NIPS,2018,,-1,2018-09-23
+Adversarial Attacks on Stochastic Bandits,,NIPS,2018,,-1,2018-09-23
+Optimal Subsampling with Influence Functions,,NIPS,2018,,-1,2018-09-23
+Equality of Opportunity in Classification: A Causal Approach,,NIPS,2018,,-1,2018-09-23
+NEON 2: Finding Local Minima via First-Order Oracles,,NIPS,2018,,-1,2018-09-23
+Zeroth-Order Stochastic Variance Reduction for Nonconvex Optimization,,NIPS,2018,,-1,2018-09-23
+Online Structured Laplace Approximations For Overcoming Catastrophic Forgetting,,NIPS,2018,,-1,2018-09-23
+DeepProbLog:  Neural Probabilistic Logic Programming,,NIPS,2018,,-1,2018-09-23
+Convergence of Cubic Regularization for Nonconvex Optimization under KL Property,,NIPS,2018,,-1,2018-09-23
+Direct Estimation of Differences in Causal Graphs,http://arxiv.org/abs/1802.05631v2,NIPS,2018,,-1,2018-09-23
+Sublinear Time Low-Rank Approximation of Distance Matrices,http://arxiv.org/abs/1809.06986v1,NIPS,2018,,-1,2018-09-23
+Variational PDEs for Acceleration on Manifolds and Application to Diffeomorphisms,,NIPS,2018,,-1,2018-09-23
+Bayesian Inference of Temporal Task Specifications from Demonstrations,,NIPS,2018,,-1,2018-09-23
+Data center cooling using model-predictive control,,NIPS,2018,,-1,2018-09-23
+Acceleration through Optimistic No-Regret Dynamics,http://arxiv.org/abs/1807.10455v1,NIPS,2018,,-1,2018-09-23
+Minimax Estimation of Neural Net Distance,,NIPS,2018,,-1,2018-09-23
+Bipartite Stochastic Block Models with Tiny Clusters,,NIPS,2018,,-1,2018-09-23
+Learning sparse neural networks via sensitivity-driven regularization,,NIPS,2018,,-1,2018-09-23
+Faster Online Learning of Optimal Threshold for  Consistent F-measure Optimization,,NIPS,2018,,-1,2018-09-23
+Adversarial Examples that Fool both Computer Vision and Time-Limited Humans,,NIPS,2018,,-1,2018-09-23
+Faster Neural Networks Straight from JPEG,,NIPS,2018,,-1,2018-09-23
+TopRank: A practical algorithm for online stochastic ranking,http://arxiv.org/abs/1806.02248v1,NIPS,2018,,-1,2018-09-23
+Learning from discriminative feature feedback,,NIPS,2018,,-1,2018-09-23
+RetGK: Graph Kernels based on Return Probabilities of Random Walks,http://arxiv.org/abs/1809.02670v1,NIPS,2018,,-1,2018-09-23
+Deep Generative Markov State Models,http://arxiv.org/abs/1805.07601v1,NIPS,2018,,-1,2018-09-23
+Early Stopping for Nonparametric Testing ,,NIPS,2018,,-1,2018-09-23
+Learning to Specialize with Knowledge Distillation for Visual Question Answering,,NIPS,2018,,-1,2018-09-23
+A Lyapunov-based Approach to Safe Reinforcement Learning,http://arxiv.org/abs/1805.07708v1,NIPS,2018,,-1,2018-09-23
+Credit Assignment For Collective Multiagent RL With Global Rewards,,NIPS,2018,,-1,2018-09-23
+Statistical Optimality of Stochastic Gradient Descent on Hard Learning Problems through Multiple Passes,,NIPS,2018,,-1,2018-09-23
+Does mitigating ML's impact disparity require treatment disparity?,http://arxiv.org/abs/1711.07076v2,NIPS,2018,,-1,2018-09-23
+Proximal Graphical Event Models,,NIPS,2018,,-1,2018-09-23
+Bayesian Control of Large MDPs with Unknown Dynamics in Data-Poor Environments,,NIPS,2018,,-1,2018-09-23
+Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data,,NIPS,2018,,-1,2018-09-23
+Modelling and unsupervised learning of symmetric deformable object categories,,NIPS,2018,,-1,2018-09-23
+Sequential Monte Carlo for probabilistic graphical models via twisted targets,,NIPS,2018,,-1,2018-09-23
+Statistical mechanics of low-rank tensor decomposition,,NIPS,2018,,-1,2018-09-23
+Variational Bayesian Monte Carlo,,NIPS,2018,,-1,2018-09-23
+Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion,,NIPS,2018,,-1,2018-09-23
+Efficient Online Portfolio with Logarithmic Regret,http://arxiv.org/abs/1805.07430v1,NIPS,2018,,-1,2018-09-23
+Algorithms and Theory for Multiple-Source Adaptation,,NIPS,2018,,-1,2018-09-23
+Online Reciprocal Recommendation with Theoretical Performance Guarantees,http://arxiv.org/abs/1806.01182v1,NIPS,2018,,-1,2018-09-23
+How SGD selects the global minima in over-parameterized learning: A stability perspective,,NIPS,2018,,-1,2018-09-23
+Differentiable MPC for End-to-end Planning and Control,,NIPS,2018,,-1,2018-09-23
+Bilevel learning of the Group Lasso structure,,NIPS,2018,,-1,2018-09-23
+Information-theoretic Limits for Community Detection in Network Models,,NIPS,2018,,-1,2018-09-23
+Transfer Learning with Neural AutoML,http://arxiv.org/abs/1803.02780v3,NIPS,2018,,-1,2018-09-23
+Stochastic Primal-Dual Method for Empirical Risk Minimization with O(1) Per-Iteration Complexity,,NIPS,2018,,-1,2018-09-23
+On preserving non-discrimination when combining expert advice,,NIPS,2018,,-1,2018-09-23
+Learning safe policies with expert guidance,,NIPS,2018,,-1,2018-09-23
+Bayesian multi-domain learning for cancer subtype discovery from next-generation sequencing count data,,NIPS,2018,,-1,2018-09-23
+Phase Retrieval Under a Generative Prior,http://arxiv.org/abs/1807.04261v1,NIPS,2018,,-1,2018-09-23
+A Stein variational Newton method,http://arxiv.org/abs/1806.03085v1,NIPS,2018,,-1,2018-09-23
+Watch Your Step: Learning Node Embeddings via Graph Attention,http://arxiv.org/abs/1710.09599v2,NIPS,2018,,-1,2018-09-23
+Visual Goal-Conditioned Reinforcement Learning by Representation Learning,,NIPS,2018,,-1,2018-09-23
+Deep Predictive Coding Network with Local Recurrent Processing for Object Recognition,,NIPS,2018,,-1,2018-09-23
+The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization,,NIPS,2018,,-1,2018-09-23
+Coordinate Descent with Bandit Sampling,,NIPS,2018,,-1,2018-09-23
+Deep Dynamical Modeling and Control of Unsteady Fluid Flows,http://arxiv.org/abs/1805.07472v1,NIPS,2018,,-1,2018-09-23
+Confounding-Robust Policy Improvement,,NIPS,2018,,-1,2018-09-23
+Representer Point Selection for Explaining Deep Neural Networks,,NIPS,2018,,-1,2018-09-23
+The Effect of Network Width on the Performance of  Large-batch Training,,NIPS,2018,,-1,2018-09-23
+SNIPER: Efficient Multi-Scale Training,,NIPS,2018,,-1,2018-09-23
+Sample Complexity of Nonparametric Semi-Supervised Learning,http://arxiv.org/abs/1809.03073v1,NIPS,2018,,-1,2018-09-23
+Hardware Conditioned Policies for Multi-Robot Transfer Learning,,NIPS,2018,,-1,2018-09-23
+Co-regularized Alignment for Unsupervised Domain Adaptation,,NIPS,2018,,-1,2018-09-23
+Statistical and Computational Trade-Offs in Kernel K-Means,,NIPS,2018,,-1,2018-09-23
+Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures,,NIPS,2018,,-1,2018-09-23
+Learning Attractor Dynamics for Generative Memory,,NIPS,2018,,-1,2018-09-23
+The emergence of multiple retinal cell types through efficient coding of natural movies,,NIPS,2018,,-1,2018-09-23
+Gather-Excite: Exploiting feature context in ConvNets,,NIPS,2018,,-1,2018-09-23
+Quantifying Linguistic Shifts: The Global Anchor Method and Its Applications,,NIPS,2018,,-1,2018-09-23
+Implicit Bias of Gradient Descent on Linear Convolutional Networks,http://arxiv.org/abs/1806.00468v1,NIPS,2018,,-1,2018-09-23
+DAGs with NO TEARS: Continuous Optimization for Structure Learning,,NIPS,2018,,-1,2018-09-23
+PAC-Bayes Tree: weighted subtrees with guarantees,,NIPS,2018,,-1,2018-09-23
+Multi-objective Maximization of Monotone Submodular Functions with Cardinality Constraint,,NIPS,2018,,-1,2018-09-23
+Sanity Checks for Saliency Maps,,NIPS,2018,,-1,2018-09-23
+Probabilistic Model-Agnostic Meta-Learning,,NIPS,2018,,-1,2018-09-23
+Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach,,NIPS,2018,,-1,2018-09-23
+e-SNLI: Natural Language Inference with Natural Language Explanations,,NIPS,2018,,-1,2018-09-23
+Fast Approximate Natural Gradient Descent in a Kronecker Factored Eigenbasis,,NIPS,2018,,-1,2018-09-23
+Learning convex bounds for linear quadratic control policy synthesis,http://arxiv.org/abs/1806.00319v1,NIPS,2018,,-1,2018-09-23
+Neural Proximal Gradient Descent for Compressive Imaging,http://arxiv.org/abs/1806.03963v1,NIPS,2018,,-1,2018-09-23
+To What Extent Do Different Neural Networks Learn the Same Representation: A Neuron Activation Subspace Match Approach,,NIPS,2018,,-1,2018-09-23
+Optimal Algorithms for Continuous   Non-monotone Submodular and DR-Submodular Maximization,,NIPS,2018,,-1,2018-09-23
+Trading robust representations for sample complexity through self-supervised visual experience,,NIPS,2018,,-1,2018-09-23
+Invertibility of Convolutional Generative Networks from Partial Measurements,,NIPS,2018,,-1,2018-09-23
+Ex ante coordination and collusion in zero-sum multi-player extensive-form games,,NIPS,2018,,-1,2018-09-23
+Multi-Agent Reinforcement Learning via Double Averaging Primal-Dual Optimization,,NIPS,2018,,-1,2018-09-23
+Improving Online Algorithms via ML Predictions,,NIPS,2018,,-1,2018-09-23
+Non-convex Optimization with Discretized Diffusions,,NIPS,2018,,-1,2018-09-23
+Improving Explorability in Variational Inference with Annealed Variational Objectives,,NIPS,2018,,-1,2018-09-23
+Towards Deep Conversational Recommendations,,NIPS,2018,,-1,2018-09-23
+"Unsupervised Depth Estimation, 3D Face Rotation and Replacement",http://arxiv.org/abs/1803.09202v2,NIPS,2018,,-1,2018-09-23
+Generalization Bounds for Uniformly Stable Algorithms,,NIPS,2018,,-1,2018-09-23
+Deep Anomaly Detection Using Geometric Transformations,http://arxiv.org/abs/1805.10917v1,NIPS,2018,,-1,2018-09-23
+Large Scale computation of Means and Clusters for Persistence Diagrams using Optimal Transport,,NIPS,2018,,-1,2018-09-23
+Entropy Rate Estimation for Markov Chains with Large State Space,http://arxiv.org/abs/1802.07889v3,NIPS,2018,,-1,2018-09-23
+Adaptive Methods for Nonconvex Optimization,,NIPS,2018,,-1,2018-09-23
+Object-Oriented Dynamics Predictor,,NIPS,2018,,-1,2018-09-23
+Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation,,NIPS,2018,,-1,2018-09-23
+Reinforcement Learning for Solving the Vehicle Routing Problem,http://arxiv.org/abs/1802.04240v2,NIPS,2018,,-1,2018-09-23
+Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies,,NIPS,2018,,-1,2018-09-23
+Maximizing acquisition functions for Bayesian optimization,http://arxiv.org/abs/1805.10196v1,NIPS,2018,,-1,2018-09-23
+On Markov Chain Gradient Descent,http://arxiv.org/abs/1809.04216v1,NIPS,2018,,-1,2018-09-23
+Variance-Reduced Stochastic Gradient Descent on Streaming Data,,NIPS,2018,,-1,2018-09-23
+Online Robust Policy Learning in the Presence of Unknown Adversaries,http://arxiv.org/abs/1807.06064v1,NIPS,2018,,-1,2018-09-23
+Uplift Modeling from Separate Labels,http://arxiv.org/abs/1803.05112v3,NIPS,2018,,-1,2018-09-23
+Learning Invariances using the Marginal Likelihood,http://arxiv.org/abs/1808.05563v1,NIPS,2018,,-1,2018-09-23
+Non-delusional Q-learning and Value-iteration,,NIPS,2018,,-1,2018-09-23
+Using Large Ensembles of Control Variates for Variational Inference,,NIPS,2018,,-1,2018-09-23
+Learning to Reason with Third Order Tensor Products,,NIPS,2018,,-1,2018-09-23
+Memory Augmented Policy Optimization for Program Synthesis and Semantic Parsing,,NIPS,2018,,-1,2018-09-23
+Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams,,NIPS,2018,,-1,2018-09-23
+Blind Deconvolutional Phase Retrieval via Convex Programming,http://arxiv.org/abs/1806.08091v1,NIPS,2018,,-1,2018-09-23
+Scalable Laplacian K-modes,,NIPS,2018,,-1,2018-09-23
+Testing for Families of Distributions via the Fourier Transform,,NIPS,2018,,-1,2018-09-23
+Thwarting Adversarial Examples: An $L_0$-Robust Sparse Fourier Transform,,NIPS,2018,,-1,2018-09-23
+Blockwise Parallel Decoding for Deep Autoregressive Models,,NIPS,2018,,-1,2018-09-23
+Low-rank Tucker decomposition of large tensors using TensorSketch,,NIPS,2018,,-1,2018-09-23
+A Simple Cache Model for Image Recognition,http://arxiv.org/abs/1805.08709v1,NIPS,2018,,-1,2018-09-23
+Clebsch–Gordan Nets: a Fully Fourier Space Spherical Convolutional Neural Network,,NIPS,2018,,-1,2018-09-23
+A Spectral View of Adversarially Robust Features,,NIPS,2018,,-1,2018-09-23
+Synaptic Strength For Convolutional Neural Network,,NIPS,2018,,-1,2018-09-23
+Human-in-the-Loop Interpretability Prior,http://arxiv.org/abs/1805.11571v1,NIPS,2018,,-1,2018-09-23
+Backpropagation with Callbacks: Towards Efficient and Expressive Differentiable Programming,,NIPS,2018,,-1,2018-09-23
+Learning with SGD and Random Features,,NIPS,2018,,-1,2018-09-23
+Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions,,NIPS,2018,,-1,2018-09-23
+Learning to Share and Hide Intentions using Information Regularization,http://arxiv.org/abs/1808.02093v1,NIPS,2018,,-1,2018-09-23
+Predictive Approximate Bayesian Computation via Saddle Points,,NIPS,2018,,-1,2018-09-23
+Learning conditional GAN using noisy labels,https://arxiv.org/abs/1806.07243,NIPS,2018,,-1,2018-09-23
+Robust Learning of Fixed-Structure Bayesian Networks,,NIPS,2018,,-1,2018-09-23
+Improving Simple Models with Confidence Profiles,http://arxiv.org/abs/1807.07506v1,NIPS,2018,,-1,2018-09-23
+Learning to solve SMT formulas,,NIPS,2018,,-1,2018-09-23
+Lifted Weighted Mini-Bucket,,NIPS,2018,,-1,2018-09-23
+Using Quantum Graphical Models to Perform Inference in Hilbert Space,,NIPS,2018,,-1,2018-09-23
+Unsupervised Image-to-Image Translation Using Domain-Specific Variational Information Bound,,NIPS,2018,,-1,2018-09-23
+Gaussian Process Prior Variational Autoencoders,,NIPS,2018,,-1,2018-09-23
+Convex Elicitation of Continuous Properties,,NIPS,2018,,-1,2018-09-23
+Bounded-Loss Private Prediction Markets,,NIPS,2018,,-1,2018-09-23
+Temporal alignment and latent Gaussian process factor inference in population spike trains,,NIPS,2018,,-1,2018-09-23
+Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise,,NIPS,2018,,-1,2018-09-23
+Discretely Relaxing Continuous Variables for tractable Variational Inference,,NIPS,2018,,-1,2018-09-23
+The Sparse Manifold Transform,http://arxiv.org/abs/1806.08887v1,NIPS,2018,,-1,2018-09-23
+Bayesian Structure Learning by Recursive Bootstrap,http://arxiv.org/abs/1809.04828v1,NIPS,2018,,-1,2018-09-23
+Gated Complex Recurrent Neural Networks,http://arxiv.org/abs/1806.08267v1,NIPS,2018,,-1,2018-09-23
+Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders,,NIPS,2018,,-1,2018-09-23
+Streamlining constraints for random k-SAT,,NIPS,2018,,-1,2018-09-23
+Improved Network Robustness with Adversary Critic,,NIPS,2018,,-1,2018-09-23
+Connecting Optimization and Regularization Paths,,NIPS,2018,,-1,2018-09-23
+Fully Neural Network Based Speech Recognition on Mobile and Embedded Devices,,NIPS,2018,,-1,2018-09-23
+Understanding Regularized Spectral Clustering via Graph Conductance,http://arxiv.org/abs/1806.01468v1,NIPS,2018,,-1,2018-09-23
+Data-Driven Clustering via Parameterized Lloyd's Families,http://arxiv.org/abs/1809.06987v1,NIPS,2018,,-1,2018-09-23
+Learning Beam Search Policies via Imitation Learning,,NIPS,2018,,-1,2018-09-23
+Benefits of overparameterization with EM,,NIPS,2018,,-1,2018-09-23
+Thermostat-assisted continuously-tempered Hamiltonian Monte Carlo for Bayesian learning,,NIPS,2018,,-1,2018-09-23
+Robust Subspace Approximation in a Stream,,NIPS,2018,,-1,2018-09-23
+Mean Field for the Stochastic Blockmodel: Optimization Landscape and Convergence Issues,,NIPS,2018,,-1,2018-09-23
+Analysis of Krylov Subspace Solutions of  Regularized Non-Convex Quadratic Problems,,NIPS,2018,,-1,2018-09-23
+DropBlock: A regularization method for convolutional networks,,NIPS,2018,,-1,2018-09-23
+Forward Modeling for Partial Observation Strategy Games - A StarCraft Defogger,,NIPS,2018,,-1,2018-09-23
+"With Friends Like These, Who Needs Adversaries?",http://arxiv.org/abs/1807.04200v3,NIPS,2018,,-1,2018-09-23
+Decentralize and Randomize: Faster Algorithm for Wasserstein Barycenters,http://arxiv.org/abs/1806.03915v1,NIPS,2018,,-1,2018-09-23
+Joint Autoregressive and Hierarchical Priors for Learned Image Compression,,NIPS,2018,,-1,2018-09-23
+Learning Temporal Point Processes via Reinforcement Learning,,NIPS,2018,,-1,2018-09-23
+Fast and Effective Robustness Certification,,NIPS,2018,,-1,2018-09-23
+Support Recovery for Orthogonal Matching Pursuit: Upper and Lower bounds,,NIPS,2018,,-1,2018-09-23
+Differentially Private Change-Point Detection,http://arxiv.org/abs/1808.10056v1,NIPS,2018,,-1,2018-09-23
+Multi-value Rule Sets for Interpretable Classification with Feature-Efficient Representations,,NIPS,2018,,-1,2018-09-23
+Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions,,NIPS,2018,,-1,2018-09-23
+Smoothed Analysis of Discrete Tensor Decomposition and Assemblies of Neurons,,NIPS,2018,,-1,2018-09-23
+Semidefinite relaxations for certifying robustness to adversarial examples,,NIPS,2018,,-1,2018-09-23
+Removing Hidden Confounding by Experimental Grounding,,NIPS,2018,,-1,2018-09-23
+Topkapi: Parallel and Fast Sketches for Finding Top-K Frequent Elements,,NIPS,2018,,-1,2018-09-23
+Contrastive Learning from Pairwise Measurements,,NIPS,2018,,-1,2018-09-23
+Point process latent variable models of freely swimming larval zebrafish,,NIPS,2018,,-1,2018-09-23
+Deep Neural Nets with Interpolating Function as Output Activation,http://arxiv.org/abs/1802.00168v3,NIPS,2018,,-1,2018-09-23
+Visual Memory for Robust Path Following,,NIPS,2018,,-1,2018-09-23
+Distilling Knowledge with Adversarial Networks,,NIPS,2018,,-1,2018-09-23
+Informative Features for Model Comparison,,NIPS,2018,,-1,2018-09-23
+Connectionist Temporal Classification with Maximum Entropy Regularization,,NIPS,2018,,-1,2018-09-23
+Generalizing Graph Matching beyond Quadratic Assignment Model,,NIPS,2018,,-1,2018-09-23
+Solving Large Sequential Games with the Excessive Gap Technique,,NIPS,2018,,-1,2018-09-23
+Discrimination-aware Channel Pruning for Deep Neural Networks,,NIPS,2018,,-1,2018-09-23
+Reinforced Continual Learning,http://arxiv.org/abs/1805.12369v1,NIPS,2018,,-1,2018-09-23
+A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agents,,NIPS,2018,,-1,2018-09-23
+Empirical Risk Minimization in Non-interactive Local Differential Privacy Revisited,,NIPS,2018,,-1,2018-09-23
+Learning semantic similarity in a continuous space,,NIPS,2018,,-1,2018-09-23
+MetaReg: Towards Domain Generalization using Meta-Regularization,,NIPS,2018,,-1,2018-09-23
+Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding,,NIPS,2018,,-1,2018-09-23
+Quadratic Decomposable Submodular Function Minimization,http://arxiv.org/abs/1806.09842v1,NIPS,2018,,-1,2018-09-23
+A Block Coordinate Ascent Algorithm for Mean-Variance Optimization,http://arxiv.org/abs/1809.02292v2,NIPS,2018,,-1,2018-09-23
+A Game-Theoretic Approach to Recommendation Systems with Strategic Content Providers,,NIPS,2018,,-1,2018-09-23
+Interactive Structure Learning with Structural Query-by-Committee,,NIPS,2018,,-1,2018-09-23
+Global Geometry of Multichannel Sparse Blind Deconvolution on the Sphere,http://arxiv.org/abs/1805.10437v1,NIPS,2018,,-1,2018-09-23
+How To Make the Gradients Small Stochastically,,NIPS,2018,,-1,2018-09-23
+Synthesize Policies for Transfer and Adaptation across Environments and Tasks,,NIPS,2018,,-1,2018-09-23
+Adversarial vulnerability for any classifier,http://arxiv.org/abs/1802.08686v1,NIPS,2018,,-1,2018-09-23
+"Alternating optimization of decision trees, with application to learning sparse oblique trees",,NIPS,2018,,-1,2018-09-23
+FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification,,NIPS,2018,,-1,2018-09-23
+The Lingering of Gradients: How to Reuse Gradients Over Time,,NIPS,2018,,-1,2018-09-23
+Global Gated Mixture of Second-order Pooling for Improving Deep Convolutional Neural Networks,,NIPS,2018,,-1,2018-09-23
+Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning,,NIPS,2018,,-1,2018-09-23
+Dirichlet-based Gaussian Processes for Large-scale Calibrated Classification,,NIPS,2018,,-1,2018-09-23
+Multi-Task Zipping via Layer-wise Neuron Sharing,http://arxiv.org/abs/1805.09791v1,NIPS,2018,,-1,2018-09-23
+Approximation algorithms for stochastic clustering,http://arxiv.org/abs/1809.02271v1,NIPS,2018,,-1,2018-09-23
+Evolutionary Stochastic Gradient Descent for Optimization of Deep Neural Networks,,NIPS,2018,,-1,2018-09-23
+Learning to Infer Graphics Programs from Hand-Drawn Images,http://arxiv.org/abs/1707.09627v4,NIPS,2018,,-1,2018-09-23
+Variational Learning on Aggregate Outputs with Gaussian Processes,http://arxiv.org/abs/1805.08463v1,NIPS,2018,,-1,2018-09-23
+MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models,,NIPS,2018,,-1,2018-09-23
+Poison Frogs! Targeted Clean-Label PoisoningAttacks on Neural Networks,,NIPS,2018,,-1,2018-09-23
+Recurrent Transformer Networks for Semantic Correspondence,,NIPS,2018,,-1,2018-09-23
+Online convex optimization for cumulative constraints,,NIPS,2018,,-1,2018-09-23
+Predict Responsibly: Improving Fairness and Accuracy by Learning to Defer,,NIPS,2018,,-1,2018-09-23
+Deep State Space Models for Unconditional Word Generation,http://arxiv.org/abs/1806.04550v1,NIPS,2018,,-1,2018-09-23
+Transfer of Value Functions via Variational Methods,,NIPS,2018,,-1,2018-09-23
+"The Cluster Description Problem - Complexity Results, Formulations and Approximations",,NIPS,2018,,-1,2018-09-23
+Sharp Bounds for Generalized Uniformity Testing,http://arxiv.org/abs/1709.02087v1,NIPS,2018,,-1,2018-09-23
+Tangent: Automatic differentiation using source-code transformation for dynamically typed array programming,,NIPS,2018,,-1,2018-09-23
+Multi-domain Causal Structure Learning in Linear Systems,,NIPS,2018,,-1,2018-09-23
+Privacy Amplification by Subsampling: Tight Analyses via Couplings and Divergences,,NIPS,2018,,-1,2018-09-23
+Algebraic tests of general Gaussian latent tree models,,NIPS,2018,,-1,2018-09-23
+Navigating with Graph Representations for Fast and Scalable Decoding of Neural Language Models,,NIPS,2018,,-1,2018-09-23
+Deep Structured Prediction via Nonlinear Output Transformations,,NIPS,2018,,-1,2018-09-23
+Computationally and Statistically Efficient Learning of Bayes Nets Using Path Queries,,NIPS,2018,,-1,2018-09-23
+Sparse PCA from Sparse Linear Regression,,NIPS,2018,,-1,2018-09-23
+Sequential Data Classification for Resource-constrained Devices,,NIPS,2018,,-1,2018-09-23
+The Price of Fair PCA: One Extra dimension,,NIPS,2018,,-1,2018-09-23
+GroupReduce: Block-Wise Low-Rank Approximation for Neural Language Model Shrinking,,NIPS,2018,,-1,2018-09-23
+"Learning to Play With Intrinsically-Motivated, Self-Aware Agents",,NIPS,2018,,-1,2018-09-23
+Scaling provable adversarial defenses,http://arxiv.org/abs/1805.12514v1,NIPS,2018,,-1,2018-09-23
+Deep Network for the Integrated 3D Sensing of Multiple People in Natural Images,,NIPS,2018,,-1,2018-09-23
+Almost Optimal Algorithms for Linear Stochastic Bandits with Heavy-Tailed Payoffs,,NIPS,2018,,-1,2018-09-23
+Data-dependent PAC-Bayes priors via differential privacy,http://arxiv.org/abs/1802.09583v1,NIPS,2018,,-1,2018-09-23
+Deep Poisson gamma dynamical systems,,NIPS,2018,,-1,2018-09-23
+Continuity vs. Injectivity in Dimensionality Reduction: a Quantitative Topology View,,NIPS,2018,,-1,2018-09-23
+Teaching Inverse Reinforcement Learners via Features and Demonstrations,,NIPS,2018,,-1,2018-09-23
+Wasserstein Distributionally Robust Kalman Filtering,http://arxiv.org/abs/1809.08830v1,NIPS,2018,,-1,2018-09-23
+"Graph Oracle Models, Lower Bounds, and Gaps for Parallel Stochastic Optimization",,NIPS,2018,,-1,2018-09-23
+Adversarial Regularizers in Inverse Problems,http://arxiv.org/abs/1805.11572v1,NIPS,2018,,-1,2018-09-23
+Clustering Redemption–Beyond the Impossibility of Kleinberg’s Axioms,,NIPS,2018,,-1,2018-09-23
+An Event-Based Framework for Task Specification and Control,,NIPS,2018,,-1,2018-09-23
+Adversarial Multiple Source Domain Adaptation,,NIPS,2018,,-1,2018-09-23
+Neural Tangent Kernel: Convergence and Generalization in Neural Networks,http://arxiv.org/abs/1806.07572v1,NIPS,2018,,-1,2018-09-23
+A statistical model for graph partitioning with high-dimensional covariates,,NIPS,2018,,-1,2018-09-23
+A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks,,NIPS,2018,,-1,2018-09-23
+Randomized Prior Functions for Deep Reinforcement Learning,http://arxiv.org/abs/1806.03335v1,NIPS,2018,,-1,2018-09-23
+Compact Representation of Uncertainty In Clustering,,NIPS,2018,,-1,2018-09-23
+Minimax Rates in Contextual Partial Monitoring,,NIPS,2018,,-1,2018-09-23
+Learning without Phase: Regularized PhaseMax Achieves Optimal Sample Complexity,,NIPS,2018,,-1,2018-09-23
+Estimators for Multivariate Information Measures in General Probability Spaces,,NIPS,2018,,-1,2018-09-23
+Synthesis of Differentiable Functional Programs for Lifelong Learning,http://arxiv.org/abs/1804.00218v1,NIPS,2018,,-1,2018-09-23
+Searching for Efficient Multi-Scale Architectures for Dense Image Prediction,,NIPS,2018,,-1,2018-09-23
+Dendritic cortical microcircuits approximate the backpropagation algorithm,,NIPS,2018,,-1,2018-09-23
+Automatic differentiation in ML: Where we are and where we should be going,,NIPS,2018,,-1,2018-09-23
+A Bayesian Nonparametric View on Count-Min Sketch,,NIPS,2018,,-1,2018-09-23
+Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels,,NIPS,2018,,-1,2018-09-23
+"Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs",http://arxiv.org/abs/1802.10026v3,NIPS,2018,,-1,2018-09-23
+Legendre Decomposition for Tensors,,NIPS,2018,,-1,2018-09-23
+Reinforcement Learning of Theorem Proving,http://arxiv.org/abs/1805.07563v1,NIPS,2018,,-1,2018-09-23
+Group Equivariant Capsule Networks,http://arxiv.org/abs/1806.05086v1,NIPS,2018,,-1,2018-09-23
+Stein Variational Gradient Descent as Moment Matching,,NIPS,2018,,-1,2018-09-23
+Differential Privacy for Growing Databases,http://arxiv.org/abs/1803.06416v1,NIPS,2018,,-1,2018-09-23
+Exploration in Structured Reinforcement Learning,http://arxiv.org/abs/1806.00775v1,NIPS,2018,,-1,2018-09-23
+Balanced Policy Evaluation and Learning,http://arxiv.org/abs/1705.07384v1,NIPS,2018,,-1,2018-09-23
+Distributed Multitask Reinforcement Learning with Quadratic Convergence,,NIPS,2018,,-1,2018-09-23
+Improving Neural Program Synthesis with Inferred Execution Traces,,NIPS,2018,,-1,2018-09-23
+Adaptive Path-Integral Autoencoders: Representation Learning and Planning for Dynamical Systems,,NIPS,2018,,-1,2018-09-23
+Policy-Conditioned Uncertainty Sets for Robust Markov Decision Processes,,NIPS,2018,,-1,2018-09-23
+Online Learning of Quantum States,,NIPS,2018,,-1,2018-09-23
+Inferring Latent Velocities from Weather Radar Data using Gaussian Processes,,NIPS,2018,,-1,2018-09-23
+A Structured Prediction Approach for Label Ranking,http://arxiv.org/abs/1807.02374v1,NIPS,2018,,-1,2018-09-23
+Efficient High Dimensional Bayesian Optimization with Additivity and Quadrature Fourier Features,,NIPS,2018,,-1,2018-09-23
+"FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network",,NIPS,2018,,-1,2018-09-23
+SING: Symbol-to-Instrument Neural Generator,,NIPS,2018,,-1,2018-09-23
+Theoretical Linear Convergence of Unfolded ISTA and Its Practical Weights and Thresholds,,NIPS,2018,,-1,2018-09-23
+Iterative Value-Aware Model Learning,,NIPS,2018,,-1,2018-09-23
+Evading the Adversary in Invariant Representation,http://arxiv.org/abs/1805.09458v1,NIPS,2018,,-1,2018-09-23
+Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias,,NIPS,2018,,-1,2018-09-23
 Viewpoint Estimation---Insights & Model,http://openaccess.thecvf.com/content_ECCV_2018/html/Gilad_Divon_Viewpoint_Estimation_-_ECCV_2018_paper.html,ECCV,2018,,-1,2018-09-16
 Joint & Progressive Learning from High-Dimensional Data for Multi-Label Classification,http://openaccess.thecvf.com/content_ECCV_2018/html/Danfeng_Hong_Joint__Progressive_ECCV_2018_paper.html,ECCV,2018,,-1,2018-09-16
 Clique-Graph Matching by Preserving Global & Local Structure,http://openaccess.thecvf.com/content_cvpr_2015/html/Nie_Clique-Graph_Matching_by_2015_CVPR_paper.html,CVPR,2015,,,2018-09-16
@@ -201,7 +1212,7 @@ ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositin
 Fine-Grained Recognition Without Part Annotations,http://openaccess.thecvf.com/content_cvpr_2015/html/Krause_Fine-Grained_Recognition_Without_2015_CVPR_paper.html,CVPR,2015,https://github.com/chenlongcv/OVSNet,0,2018-09-16
 Learning K-way D-dimensional Discrete Codes for Compact Embedding Representations,http://proceedings.mlr.press/v80/chen18g.html,ICML,2018,https://github.com/chentingpc/kdcode-lm,3,2018-09-16
 Regularizing RNNs for Caption Generation by Reconstructing the Past With the Present,http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Regularizing_RNNs_for_CVPR_2018_paper.pdf,CVPR,2018,https://github.com/chenxinpeng/ARNet,53,2018-09-16
-High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs,http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_High-Resolution_Image_Synthesis_CVPR_2018_paper.pdf,CVPR,2018,https://github.com/NVIDIA/pix2pixHD,2392,2018-09-22
+High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs,http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_High-Resolution_Image_Synthesis_CVPR_2018_paper.pdf,CVPR,2018,https://github.com/chenxli/High-Resolution-Image-Synthesis-and-Semantic-Manipulation-with-Conditional-GANsl-,3,2018-09-16
 Chi-square Generative Adversarial Network,http://proceedings.mlr.press/v80/tao18b.html,ICML,2018,https://github.com/chenyang-tao/chi2gan,1,2018-09-16
 Cascaded Pyramid Network for Multi-Person Pose Estimation,http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Cascaded_Pyramid_Network_CVPR_2018_paper.pdf,CVPR,2018,https://github.com/chenyilun95/tf-cpn,425,2018-09-16
 LaVAN: Localized and Visible Adversarial Noise,http://proceedings.mlr.press/v80/karmon18a.html,ICML,2018,https://github.com/ChesterAiGo/LaVAN_python-tf-,1,2018-09-16
@@ -1544,7 +2555,7 @@ Forecasting Human Dynamics From Static Images,http://openaccess.thecvf.com/conte
 IM2CAD,http://openaccess.thecvf.com/content_cvpr_2017/html/Izadinia_IM2CAD_CVPR_2017_paper.html,CVPR,2017,https://github.com/yyong119/IM2CAD,10,2018-09-16
 Active Learning with Logged Data,http://proceedings.mlr.press/v80/yan18a.html,ICML,2018,https://github.com/yyysbysb/al_log_icml18,0,2018-09-16
 "GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose",http://openaccess.thecvf.com/content_cvpr_2018/papers/Yin_GeoNet_Unsupervised_Learning_CVPR_2018_paper.pdf,CVPR,2018,https://github.com/yzcjtr/GeoNet,289,2018-09-16
-GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation,http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_GeoNet_Geometric_Neural_CVPR_2018_paper.pdf,CVPR,2018,,,2018-09-16
+GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation,http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_GeoNet_Geometric_Neural_CVPR_2018_paper.pdf,CVPR,2018,https://github.com/yzcjtr/GeoNet,289,2018-09-16
 Detecting and Correcting for Label Shift with Black Box Predictors,http://proceedings.mlr.press/v80/lipton18a.html,ICML,2018,https://github.com/zackchase/label-shift,6,2018-09-16
 First Order Generative Adversarial Networks,http://proceedings.mlr.press/v80/seward18a.html,ICML,2018,https://github.com/zalandoresearch/first_order_gan,22,2018-09-16
 Visual Translation Embedding Network for Visual Relation Detection,http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Visual_Translation_Embedding_CVPR_2017_paper.html,CVPR,2017,https://github.com/zawlin/cvpr17_vtranse,40,2018-09-16
