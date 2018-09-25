@@ -602,7 +602,11 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | [Weakly-supervised Video Summarization using Variational Encoder-Decoder and Web Prior](http://openaccess.thecvf.com/content_ECCV_2018/html/Sijia_Cai_Weakly-supervised_Video_Summarization_ECCV_2018_paper.html) | ECCV | [code](https://github.com/cssjcai/vesd) | 3 | 
 | [Spatially-Adaptive Filter Units for Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tabernik_Spatially-Adaptive_Filter_Units_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/skokec/DAU-ConvNet) | 3 | 
 | [Learning K-way D-dimensional Discrete Codes for Compact Embedding Representations](http://proceedings.mlr.press/v80/chen18g.html) | ICML | [code](https://github.com/chentingpc/kdcode-lm) | 3 | 
- 
+
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+
 ## 2017
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
@@ -1220,7 +1224,11 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | [Predicting Salient Face in Multiple-Face Videos](http://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Predicting_Salient_Face_CVPR_2017_paper.html) | CVPR | [code](https://github.com/tonysy/salient-face-in-MUVFET) | 3 | 
 | [Compatible Reward Inverse Reinforcement Learning](http://papers.nips.cc/paper/6800-compatible-reward-inverse-reinforcement-learning.pdf) | NIPS | [code](https://github.com/albertometelli/crirl) | 3 | 
 | [Deep Latent Dirichlet Allocation with Topic-Layer-Adaptive Stochastic Gradient Riemannian MCMC](http://proceedings.mlr.press/v70/cong17a.html) | ICML | [code](https://github.com/mingyuanzhou/DeepLDA_TLASGR_MCMC) | 3 | 
- 
+
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+
 ## 2016
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
@@ -1329,7 +1337,11 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | [DenseCap: Fully Convolutional Localization Networks for Dense Captioning](http://openaccess.thecvf.com/content_cvpr_2016/html/Johnson_DenseCap_Fully_Convolutional_CVPR_2016_paper.html) | CVPR | [code](https://github.com/rampage644/densecap-tensorflow) | 3 | 
 | [Force From Motion: Decoding Physical Sensation in a First Person Video](http://openaccess.thecvf.com/content_cvpr_2016/html/Park_Force_From_Motion_CVPR_2016_paper.html) | CVPR | [code](https://github.com/jyhjinghwang/Force_from_Motion_Gravity_Models) | 3 | 
 | [Recurrent Attentional Networks for Saliency Detection](http://openaccess.thecvf.com/content_cvpr_2016/html/Kuen_Recurrent_Attentional_Networks_CVPR_2016_paper.html) | CVPR | [code](https://github.com/zhangxiaoning666/PAGR) | 3 | 
- 
+
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+
 ## 2015
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
@@ -1437,7 +1449,11 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | [Hyperspectral Super-Resolution by Coupled Spectral Unmixing](http://openaccess.thecvf.com/content_iccv_2015/html/Lanaras_Hyperspectral_Super-Resolution_by_ICCV_2015_paper.html) | ICCV | [code](https://github.com/lanha/SupResPALM) | 3 | 
 | [Oriented Object Proposals](http://openaccess.thecvf.com/content_iccv_2015/html/He_Oriented_Object_Proposals_ICCV_2015_paper.html) | ICCV | [code](https://github.com/frutuozo29/WebServiceRESTFul) | 3 | 
 | [Efficient Minimal-Surface Regularization of Perspective Depth Maps in Variational Stereo](http://openaccess.thecvf.com/content_cvpr_2015/html/Graber_Efficient_Minimal-Surface_Regularization_2015_CVPR_paper.html) | CVPR | [code](https://github.com/VLOGroup/surface-area-regularization) | 3 | 
- 
+
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+
 ## 2014
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
@@ -1472,7 +1488,11 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | [Investigating Haze-relevant Features in A Learning Framework for Image Dehazing](http://openaccess.thecvf.com/content_cvpr_2014/html/Tang_Investigating_Haze-relevant_Features_2014_CVPR_paper.html) | CVPR | [code](https://github.com/zlinker/haze_2014) | 6 | 
 | [Tell Me What You See and I will Show You Where It Is](http://openaccess.thecvf.com/content_cvpr_2014/html/Xu_Tell_Me_What_2014_CVPR_paper.html) | CVPR | [code](https://github.com/MarkipTheMudkip/in-class-project-2) | 5 | 
 | [Salient Region Detection via High-Dimensional Color Transform](http://openaccess.thecvf.com/content_cvpr_2014/html/Kim_Salient_Region_Detection_2014_CVPR_paper.html) | CVPR | [code](https://github.com/jhkim89/Saliency-HDCT) | 4 | 
- 
+
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+
 ## 2013
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
