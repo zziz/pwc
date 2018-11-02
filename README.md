@@ -35,7 +35,7 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | [Taskonomy: Disentangling Task Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/StanfordVL/taskonomy) | 453 | 
 | [Which Training Methods for GANs do actually Converge?](http://proceedings.mlr.press/v80/mescheder18a.html) | ICML | [code](https://github.com/LMescheder/GAN_stability) | 453 | 
 | [Cascaded Pyramid Network for Multi-Person Pose Estimation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Cascaded_Pyramid_Network_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/chenyilun95/tf-cpn) | 447 | 
-| [Pelee: A Real-Time Object Detection System on Mobile Devices](nan) | NIPS | [code](https://github.com/Robert-JunWang/Pelee) | 441 | 
+| [Pelee: A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/pdf/1804.06882.pdf) | NIPS | [code](https://github.com/Robert-JunWang/Pelee) | 441 | 
 | [Generative Image Inpainting With Contextual Attention](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Generative_Image_Inpainting_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/JiahuiYu/generative_inpainting) | 441 | 
 | [Neural 3D Mesh Renderer](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kato_Neural_3D_Mesh_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/hiroharu-kato/neural_renderer) | 436 | 
 | [Look at Boundary: A Boundary-Aware Face Alignment Algorithm](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Look_at_Boundary_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/wywu/LAB) | 416 | 
@@ -467,7 +467,7 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | [Joint Optimization Framework for Learning With Noisy Labels](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tanaka_Joint_Optimization_Framework_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/DaikiTanaka-UT/JointOptimization) | 11 | 
 | [Learning to Forecast and Refine Residual Motion for Image-to-Video Generation](http://openaccess.thecvf.com/content_ECCV_2018/html/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.html) | ECCV | [code](https://github.com/garyzhao/FRGAN) | 11 | 
 | [Hierarchical Novelty Detection for Visual Object Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Hierarchical_Novelty_Detection_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/kibok90/cvpr2018-hnd) | 11 | 
-| [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](nan) | NIPS | [code](https://github.com/aimbrain/vqa-project) | 11 | 
+| [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://arxiv.org/pdf/1806.07243.pdf) | NIPS | [code](https://github.com/aimbrain/vqa-project) | 11 | 
 | [Learning Rich Features for Image Manipulation Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Learning_Rich_Features_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/LarryJiang134/Image_manipulation_detection) | 11 | 
 | [Future Person Localization in First-Person Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yagi_Future_Person_Localization_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/takumayagi/fpl) | 11 | 
 | [Neural Sign Language Translation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/neccam/nslt) | 11 | 
