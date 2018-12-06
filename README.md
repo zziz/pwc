@@ -625,7 +625,7 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | [Ring Loss: Convex Feature Normalization for Face Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zheng_Ring_Loss_Convex_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/vsatyakumar/Ring-Loss-Keras) | 3 | 
 | [Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving](http://openaccess.thecvf.com/content_ECCV_2018/html/Peiliang_LI_Stereo_Vision-based_Semantic_ECCV_2018_paper.html) | ECCV | [code](https://github.com/zhanghanduo/stereo_semantic_mapping) | 3 | 
 | [Stabilizing Gradients for Deep Neural Networks via Efficient SVD Parameterization](http://proceedings.mlr.press/v80/zhang18g.html) | ICML | [code](https://github.com/zhangjiong724/spectral-RNN) | 3 | 
-
+| [Detection, localisation and tracking of pallets using machine learning techniques and 2D range data](https://arxiv.org/abs/1803.11254) | NCAA | [code](https://github.com/EmaroLab/PDT) | 3 |
 <div align="right">
 <b><a href="#----">↥ back to top</a></b>
 </div>
