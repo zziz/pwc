@@ -76,7 +76,7 @@ Plug & Play Generative Networks: Conditional Iterative Generation of Images in L
 Taskonomy: Disentangling Task Transfer Learning,http://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf,CVPR,2018,https://github.com/StanfordVL/taskonomy,502,2019-01-02
 Which Training Methods for GANs do actually Converge?,http://proceedings.mlr.press/v80/mescheder18a.html,ICML,2018,https://github.com/LMescheder/GAN_stability,520,2019-01-02
 Cascaded Pyramid Network for Multi-Person Pose Estimation,http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Cascaded_Pyramid_Network_CVPR_2018_paper.pdf,CVPR,2018,https://github.com/chenyilun95/tf-cpn,497,2019-01-02
-Pelee: A Real-Time Object Detection System on Mobile Devices,,NIPS,2018,https://github.com/Robert-JunWang/Pelee,548,2019-01-02
+Pelee: A Real-Time Object Detection System on Mobile Devices,https://arxiv.org/pdf/1804.06882.pdf,NIPS,2018,https://github.com/Robert-JunWang/Pelee,548,2019-01-02
 Generative Image Inpainting With Contextual Attention,http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Generative_Image_Inpainting_CVPR_2018_paper.pdf,CVPR,2018,https://github.com/JiahuiYu/generative_inpainting,609,2019-01-02
 Neural 3D Mesh Renderer,http://openaccess.thecvf.com/content_cvpr_2018/papers/Kato_Neural_3D_Mesh_CVPR_2018_paper.pdf,CVPR,2018,https://github.com/hiroharu-kato/neural_renderer,489,2019-01-02
 SSH: Single Stage Headless Face Detector,http://openaccess.thecvf.com/content_iccv_2017/html/Najibi_SSH_Single_Stage_ICCV_2017_paper.html,ICCV,2017,https://github.com/mahyarnajibi/SSH,515,2019-01-02
@@ -1844,3 +1844,5 @@ Feature Generating Networks for Zero-Shot Learning,http://openaccess.thecvf.com/
 AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning,http://proceedings.mlr.press/v80/alaa18b.html,ICML,2018,https://github.com/ahmedmalaa/AutoPrognosis,0,2019-01-02
 Accelerated Spectral Ranking,http://proceedings.mlr.press/v80/agarwal18b.html,ICML,2018,https://github.com/agarpit/asr,0,2019-01-02
 Active Learning for Top-$K$ Rank Aggregation from Noisy Comparisons,http://proceedings.mlr.press/v70/mohajer17a.html,ICML,2017,https://github.com/a-elmahdy/Active-Learning-from-Noisy-Comparisons,0,2019-01-02
+CryptoKnight: Generating and Modelling Compiled Cryptographic Primitives,https://www.mdpi.com/2078-2489/9/9/231,NAN,2018,https://github.com/AbertayMachineLearningGroup/CryptoKnight,13,2019-01-02
+"Detection, localisation and tracking of pallets using machine learning techniques and 2D range data",https://arxiv.org/abs/1803.11254,NCAA,2018,https://github.com/EmaroLab/PDT,5,2019-01-02

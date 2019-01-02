@@ -1588,7 +1588,3 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
 | [A generic decentralized trust management framework](http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2012/MSC/MSC-2012-22.pdf) | SPE | [code](https://github.com/amitport/graphpack) | 6 | 
-
-<div align="right">
-<b><a href="#----">↥ back to top</a></b>
-</div>
