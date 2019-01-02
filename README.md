@@ -8,7 +8,7 @@
 
 This work is in continuous progress and update. We are adding new PWC everyday! Tweet me [@fvzaur](https://twitter.com/fvzaur)   
 Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favorite conference to be added to our watchlist and to PWC list.   
-#### Weekly updated pushed! 
+#### Weekly update pushed! 
 
 ## 2018
 | Title | Conf | Code | Stars |
