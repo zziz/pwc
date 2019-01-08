@@ -1588,3 +1588,12 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
 | [A generic decentralized trust management framework](http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2012/MSC/MSC-2012-22.pdf) | SPE | [code](https://github.com/amitport/graphpack) | 6 | 
+
+### Code Visualization:
+
+Here is a cool visualization of the code evolution
+
+ [![Watch the video](https://img.youtube.com/vi/i4DPsQxBg_A/0.jpg)](https://www.youtube.com/watch?v=i4DPsQxBg_A)
+
+ [https://www.youtube.com/watch?v=i4DPsQxBg_A](https://www.youtube.com/watch?v=i4DPsQxBg_A)
+
