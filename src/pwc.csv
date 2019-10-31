@@ -1,4 +1,5 @@
 paper_title,paper_link,conference,year,repo_link,repo_star,last_update
+Deep Learning Recommendation Model for Personalization and Recommendation Systems,https://arxiv.org/abs/1906.00091,OCP,2019,https://github.com/facebookresearch/dlrm,1525,2019-10-31
 Bridging the Gap Between Value and Policy Based Reinforcement Learning,http://papers.nips.cc/paper/6870-bridging-the-gap-between-value-and-policy-based-reinforcement-learning.pdf,NIPS,2017,https://github.com/tensorflow/models,46593,2019-01-02
 "REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models",http://papers.nips.cc/paper/6856-rebar-low-variance-unbiased-gradient-estimates-for-discrete-latent-variable-models.pdf,NIPS,2017,https://github.com/tensorflow/models,46593,2019-01-02
 Focal Loss for Dense Object Detection,http://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html,ICCV,2017,https://github.com/facebookresearch/Detectron,18356,2019-01-02
