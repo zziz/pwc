@@ -20,6 +20,7 @@ Use [this](https://github.com/zziz/pwc/issues/11) thread to request us your favo
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
 | [Very Long Natural Scenery Image Prediction by Outpainting](https://arxiv.org/pdf/1912.12688v1.pdf) | [code](https://github.com/attribution-bottleneck/attribution-bottleneck-pytorch) | ICCV | 22 |
+| [How the Quality of Call Detail Records Influences the Detection of Commuting Trips](https://link.springer.com/chapter/10.1007/978-3-030-30241-2_54) | [code](https://github.com/joelpires/CDRsDataAnalysis) | EPIA2019 | 0 |
 
 ## 2018
 | Title | Conf | Code | Stars |

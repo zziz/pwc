@@ -1846,6 +1846,7 @@ Accelerated Spectral Ranking,http://proceedings.mlr.press/v80/agarwal18b.html,IC
 Active Learning for Top-$K$ Rank Aggregation from Noisy Comparisons,http://proceedings.mlr.press/v70/mohajer17a.html,ICML,2017,https://github.com/a-elmahdy/Active-Learning-from-Noisy-Comparisons,0,1/2/2019
 CryptoKnight: Generating and Modelling Compiled Cryptographic Primitives,https://www.mdpi.com/2078-2489/9/9/231,NAN,2018,https://github.com/AbertayMachineLearningGroup/CryptoKnight,13,1/2/2019
 "Detection, localisation and tracking of pallets using machine learning techniques and 2D range data",https://arxiv.org/abs/1803.11254,NCAA,2018,https://github.com/EmaroLab/PDT,5,1/2/2019
+How the Quality of Call Detail Records Influences the Detection of Commuting Trips,https://link.springer.com/chapter/10.1007/978-3-030-30241-2_54,EPIA19,2019,https://github.com/joelpires/CDRsDataAnalysis,0,1/16/2020
 Very Long Natural Scenery Image Prediction by Outpainting,https://arxiv.org/pdf/1912.12688v1.pdf,ICCV,2019,https://github.com/z-x-yang/NS-Outpainting,22,1/3/2020
 Inferring  Commuting Routes and Transportation Modes from Call Detail Records,https://1drv.ms/b/s!Ap6B8pGCJqB6hogwlsUKNaJJRkCJlg?e=m4GFWp,TRA2020,2020,https://github.com/joelpires/CDRsDataAnalysis,0,1/3/2020
 Restricting the Flow: Information Bottlenecks for Attribution,https://arxiv.org/pdf/2001.00396v1.pdf,ICLR,2020,https://github.com/attribution-bottleneck/attribution-bottleneck-pytorch,20,1/3/2020
